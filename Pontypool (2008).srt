@@ -522,7 +522,7 @@ Vai continuar nele durante a tempestade?
 00:08:52,812 --> 00:08:54,878
 Isso deve ser perigoso.
 É seguro, Ken?
-0
+
 119
 00:08:54,977 --> 00:08:57,420
 <i>Bom, eu ficarei aqui, Grant,
