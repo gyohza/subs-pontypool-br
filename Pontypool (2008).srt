@@ -296,7 +296,7 @@ E aí, me arrumou material bom?
 
 69
 00:05:34,507 --> 00:05:36,549
-Vamos pro ar!
+Vamos ao ar!
 
 70
 00:05:37,381 --> 00:05:39,240
@@ -322,7 +322,7 @@ E... obrigado.
 
 75
 00:05:50,047 --> 00:05:51,588
-Vamos pro ar!
+Vamos ao ar!
 
 76
 00:06:34,790 --> 00:06:37,357
@@ -488,7 +488,7 @@ mudar, mais tarde...
 
 111
 00:08:31,106 --> 00:08:34,481
-gozaremos de um alívio vindo do
+gozaremos de um alívio proveniente do
 efeito estufa da zona industrial ao sul.
 
 112
@@ -522,7 +522,7 @@ Vai continuar nele durante a tempestade?
 00:08:52,812 --> 00:08:54,878
 Isso deve ser perigoso.
 É seguro, Ken?
-
+0
 119
 00:08:54,977 --> 00:08:57,420
 <i>Bom, eu ficarei aqui, Grant,
