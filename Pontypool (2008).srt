@@ -1454,11 +1454,11 @@ para sua visão aérea.
 
 322
 00:19:44,219 --> 00:19:46,284
-E... as pessoas se empolgam...
+E... as pessoas ficam empolgadas...
 
 323
 00:19:46,383 --> 00:19:47,993
-ao tê-lo ali no céu,
+por tê-lo ali no céu,
 
 324
 00:19:48,093 --> 00:19:51,367
@@ -1467,7 +1467,7 @@ Helicóptero Sunshine, mesmo assim...
 
 325
 00:19:51,467 --> 00:19:54,383
-Nossa. Tenho certeza que sim.
+Nossa. Tenho certeza que ficam...
 OK.
 
 326
@@ -4743,7 +4743,7 @@ Vejo você amanhã, né?
 
 1033
 01:05:16,906 --> 01:05:19,739
-Isso é ótimo, querida.
+Que ótimo, querida.
 
 1034
 01:05:25,239 --> 01:05:29,488
@@ -4838,8 +4838,8 @@ Foi muito gentil.
 
 1054
 01:07:35,179 --> 01:07:38,370
-Então é <i>isso</i> que acontece quando a
-vítima não encontra uma vítima!
+Então <i>isso</i> é o que acontece quando
+a vítima não encontra uma vítima!
 
 1055
 01:07:38,469 --> 01:07:42,718
@@ -4864,12 +4864,12 @@ Respirar... respirar...
 Ah... Aí vem eles!
 
 1060
-01:07:56,051 --> 01:07:59,011
+01:07:56,151 --> 01:07:59,111
 Deve haver centenas deles pressionando
 contra as paredes deste prédio.
 
 1061
-01:08:00,091 --> 01:08:01,690
+01:08:00,291 --> 01:08:01,890
 O que precisamos é
 de um lança-chamas.
 
@@ -4897,7 +4897,7 @@ será que seguem?</i>
 
 1067
 01:09:42,534 --> 01:09:44,841
-<i>A mensagem viajará</i>
+<i>A mensagem vai transitar</i>
 
 1068
 01:09:49,567 --> 01:09:51,105
@@ -4932,7 +4932,7 @@ Sydney Briar está viva...
 Sydney Briar está viva...
 
 1076
-01:11:14,730 --> 01:11:16,047
+01:11:15,130 --> 01:11:16,147
 Joguei em <i>loop</i>.
 
 1077
@@ -5378,12 +5378,12 @@ toda a matança.
 as palavras e adoecem, mesmo assim.
 
 1180
-01:23:05,877 --> 01:23:08,944
-Então como as tornamos...
-irreconhecíveis?
+01:23:05,977 --> 01:23:09,444
+Então como a tornamos...
+irreconhecível?
 
 1181
-01:23:09,044 --> 01:23:11,935
+01:23:09,444 --> 01:23:11,935
 Como?
 E que palavra?
 
