@@ -1,4 +1,4 @@
-# Pontypool (2008) - Subtitles `PT-BR`
+# [Pontypool (2008)](https://www.rottentomatoes.com/m/pontypool) - Subtitles `PT-BR`
 
 Portuguese (Brazilian) captions to one of the greatest horror pieces ever filmed.
 
