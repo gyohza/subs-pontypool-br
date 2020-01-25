@@ -38,13 +38,13 @@ Most **dubs** I heard in Portuguese just start calling the language itself "Port
 
 ... became *é só a **língua inglesa** que está infectada!*
 
-I'm guessing this might be a hot topic among translators around the world, but since I never read or talked about it, I thought it would be worth giving it a footnote.
+I'm guessing this might be a hot topic among translators around the world, but since I never read or talked about it, I thought it would be worth mentioning.
 
 ### Phonetic resemblance
 
 When the infected are on the first stages of the infection, the first symptom is to start confusing and swapping words with ones that just sound similar.
 
-It'd be a bit troublesome to fit them into the context, so I left them with them translated with no adaptations - I didn't go far to make the mixed up words sound very similar - in the hopes that whoever's watching will notice that, in the spoken English, the words actually sound alike.
+It'd be a bit troublesome to fit them into the context, so I left them translated with no adaptations - I didn't go far to make the mixed up words sound very similar - in the hopes that whoever's watching will notice that, in the spoken English, the words actually sound alike.
 
 ### [`take no prisoners`](https://en.wiktionary.org/wiki/take_no_prisoners)
 
