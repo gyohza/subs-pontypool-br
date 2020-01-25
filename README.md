@@ -54,7 +54,7 @@ Roughly means acting relentlessly and often ruthlessly in the pursuit of somethi
 
 In one translation I checked (which pissed me off enough to write my own) it was translated as *"não fazer reféns"* and then *"não fazer prisioneiros"*, which is literally "not to take hostages" and "not to take prisoners", respectively. Ugh.
 
-We do, however, have one expression that means "talking without mincing one's own words", to speak one's mind in an uncompromising way: **sem papas na língua** (adjective) and **ter papas na língua** (verb - I preferred using "ficar de..." which just sounds better), which I reckoned was quite appropriate to that particular context, but not without side-effects:
+We do, however, have one expression that means "talking without mincing one's own words", to speak one's mind in an uncompromising way: **sem papas na língua** (adjective) and **ter papas na língua** (verb - I preferred using "ficar de..." which just sounds better), which I reckoned was quite appropriate for that particular context, but not without side-effects:
 
 > `00:54:48.200` We're holding our own here, today and we are taking no prisoners, friends.
 > `00:54:54.000` However, today we *are* those prisoners. We are tired... and we are scared.
