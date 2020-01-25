@@ -26,7 +26,7 @@ If a hypothetical character said:
 
 > I'm speaking plain English. 
 
-Will I still call it "English" when translating to Portuguese? Because, then, I'd be speaking (actually "writing") Portuguese, right?
+Will I still call it "English" when translating to Portuguese? Because, then, I'd be speaking (or "writing") Portuguese, right?
 
 Most **dubs** I heard in Portuguese just start calling the language itself "Portuguese", because there's literally no English coming out of the TV. But with **subs** it's evident that the characters are speaking English and the Portuguese subs are just helping you understand just that. So it's okay to keep calling it "English", and that's what I did.
 
