@@ -12,11 +12,11 @@ I am truly passionate about this piece and I consider great responsibility to tr
 
 In all honesty, I'm no professional translator - neither have I great experience with writing and syncing subtitles - but I *am* a professional coder, so I decided to host these subtitles on GitHub, so one can track all my corrections and, most importantly, I can leave these notes to whomever comes across these subs. Sadly I thought about hosting them on GitHub only after I had almost lost all my work (3 full days of hard work and still adjusting)... I really wish I had logged all my progress to share how the sausage is made.
 
-Okay, we all know what it means to translate. It's more of an art, rather than just swapping words and expressions from one language to another. It takes quite a lot of holding your own with a language, but it also takes decision-making, rolling with the punches and making do with spoons when there are no spades around. It takes another human, another whole world and it's virtually impossible to make the whole experience identical to the original. (***Puns** are an excellent but painful example of things that can't be translated*). I spent great effort to make this work as seamlessly as possible so as not to ruin the experience for you.
+Okay, we all know what it means to translate. It's more of an art, rather than just swapping words and expressions from one language to another. It takes quite a lot of holding one's own with a language, but it also takes decision-making, rolling with the punches, making do with spoons when there are no spades around and ultimately imprinting the text with oneself. It takes another human, another whole world and it's virtually impossible to make the whole experience identical to the original. (***Puns** and **wordplay** are an excellent but painful example of things that can't be translated*). I spent great effort to make this work as seamlessly as possible so as not to ruin the experience for you.
 
 If anything, thank you for reading these. I know how tl;dr these are.
 
-## Difficult bits - `WARNING:` *spoilers ahead*
+## Difficult bits - `WARNING: SPOILERS`
 
 Now, as you'd expect, there were some remarkable bits that were just not easy to translate, so I'm gonna list them all below and provide an explanation on how I solved them:
 
@@ -40,6 +40,12 @@ Most **dubs** I heard in Portuguese just start calling the language itself "Port
 
 I'm guessing this might be a hot topic among translators around the world, but since I never read or talked about it, I thought it would be worth giving it a footnote.
 
+### Phonetic resemblance
+
+When the infected are on the first stages of the infection, the first symptom is to start confusing and swapping words with ones that just sound similar.
+
+It'd be a bit troublesome to fit them into the context, so I left them with them translated with no adaptations - I didn't go far to make the mixed up words sound very similar - in the hopes that whoever's watching will notice that, in the spoken English, the words actually sound alike.
+
 ### [`take no prisoners`](https://en.wiktionary.org/wiki/take_no_prisoners)
 
 This was by far the hardest one.
@@ -61,6 +67,30 @@ And then, near the end:
 > `01:27:35.000` 'Cause in fact today, folks, we set those prisoners free.
 
 Lucky thing **língua** means both "language" and "tongue" (the organ). The illness in this movie affects the English language itself, so I thought *libertaremos nossa língua* ("break our language free") would work.
+
+### `kill`, `killers`, `killing`
+
+> `01:22:13.700` You're gonna have killers in here soon if you keep killing your own rules, Grant.
+
+Why, the obvious translation would be:
+
+> terá assassinos aqui, em breve, se continuar matando suas próprias regras, Grant.
+
+"Assassino" is not the same as "assassin". We do use it in the sense of "killer for hire", but more often than not, it means just "murderer".
+Later on:
+
+> `01:22:56.900` You'd have to kill... all the killing...
+> [...]
+> `01:23:06.000` So how do you make it unrecognizable? How... and what word?
+> `01:23:14.900` ... *Kill*...
+
+We find out that the only reason she started the "kill" sentences was because the word was infected.
+
+"Kill" becomes "matar". "Assassinar" would be extremely awkward and unnatural.
+
+So back to the "you're gonna have killers in here soon" bit. Since "assassinos" is out of the question, we should obviously stick to "matador", right? Except we never ever say "matador". Then how the hell do I blend "matar" into the context?
+
+I went with "cair matando", which translates, I believe, to "go all out".
 
 <!-- to be continued -->
 
