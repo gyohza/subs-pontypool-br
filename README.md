@@ -90,7 +90,17 @@ We find out that the only reason she started the "kill" sentences was because th
 
 So back to the "you're gonna have killers in here soon" bit. Since "assassinos" is out of the question, we should obviously stick to "matador", right? Except we never ever say "matador". Then how the hell do I blend "matar" into the context?
 
-I went with "cair matando", which translates, I believe, to "go all out".
+I went with "cair matando", which translates to, I believe, "go all out".
+
+### `loop`
+
+This one wasn't actually difficult, just something that others might have done differently.
+
+> `01:11:15.100` I've looped it.
+
+Theoretically you *could* translate it as "coloquei para repetir" ("I set it to repeat itself") or "coloquei em repetição" ("I set it into repetition"), because "repetição" is the closest we have to "loop" in Portuguese - in fact, that's the politically correct way people call a "loop" in programming while in college.
+
+However the truth is that we don't *ever* call it "repetição", except when specifically trying to be politically correct. Even on everyday language, younger PT-BR speakers would use the word "loop" as is (although some will annoyingly and stubbornly use "looping" instead of "loop"). In technical jargon, especially in the computing, musical and presumbly radio businesses, virtually everybody knows what a "loop" is. So no, I won't be calling it "repetição".
 
 <!-- to be continued -->
 
