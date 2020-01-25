@@ -173,7 +173,7 @@ Algo incrível...
 
 40
 00:02:14,369 --> 00:02:18,953
-E pensando bem, algo
+Mas pensando bem, algo
 sempre está prestes a acontecer.
 
 41
@@ -4565,7 +4565,7 @@ uma nova manifestação de vida,
 
 994
 01:01:56,686 --> 01:01:59,669
-e nossa língua é seu hospedeiro.
+e nossa língua é sua hospedeira.
 
 995
 01:01:59,669 --> 01:02:03,943
@@ -6383,3 +6383,4 @@ OK. OK, baby!
     Subbed and translated by gyohza
     https://github.com/gyohza/subs-pontypool-br
 -->
+
