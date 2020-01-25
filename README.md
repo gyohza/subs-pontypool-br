@@ -1,8 +1,8 @@
-# *Pontypool (2008) - Subtitles (PT-BR)*
+# Pontypool (2008) - Subtitles `PT-BR`
 
 Portuguese (Brazilian) captions to one of the greatest horror pieces ever filmed.
 
-Subtitles made with the aid of **Subtitle Edit**.
+Subtitles made with the aid of [**Subtitle Edit**](https://www.nikse.dk/subtitleedit).
 
 ## Notes from the translator
 
