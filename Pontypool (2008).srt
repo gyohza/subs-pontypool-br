@@ -555,13 +555,13 @@ gostaria ser um pássaro
 
 125
 00:09:11,059 --> 00:09:13,084
-Vão devagar, gente.
-Há três caminhões de carga...
+<i>Vão devagar, gente.
+Há três caminhões de carga...</i>
 
 126
 00:09:13,184 --> 00:09:15,959
 - Acho que está só preocupado.
-- <i>com hélices de geração de vento...</i>
+- <i>com pás de gerador eólico...</i>
 
 127
 00:09:16,059 --> 00:09:19,041
@@ -929,13 +929,13 @@ OK... Grant, eu...
 
 207
 00:13:03,652 --> 00:13:05,758
-- Eu... eu quero Mazzy.
+- Eu... eu quero o Mazzy.
 - OK.
 
 208
 00:13:05,858 --> 00:13:08,050
-Contratei Mazzy,
-quero Mazzy.
+Contratei o Mazzy,
+quero o Mazzy.
 
 209
 00:13:08,150 --> 00:13:10,425
@@ -1665,12 +1665,12 @@ do lado de fora do consultório
 do Dr. John Mendez.
 
 370
-00:22:21,779 --> 00:22:24,929
-Aparenta ser algum tipo de protesto
+00:22:21,979 --> 00:22:25,029
+Aparenta ser algum tipo de protesto e...
 
 371
 00:22:25,029 --> 00:22:29,803
-e a polícia descreveu os manifestantes
+a polícia descreveu os manifestantes
 como 'desgovernados'.
 
 372
@@ -1679,7 +1679,7 @@ O Dr. John Mendez, talvez se lembrem,
 
 373
 00:22:32,569 --> 00:22:37,776
-Ele foi o... ele estava sob investigações
+Ele era o... ele estava sendo investigado
 por passar receitas médicas desnecessárias.
 
 374
@@ -3529,7 +3529,7 @@ Não me venha mexer comigo!
 
 769
 00:47:52,932 --> 00:47:56,224
-Grant! Grant, vamos lá!
+Grant! Grant, por favor!
 
 770
 00:47:56,433 --> 00:47:57,723
@@ -3712,7 +3712,7 @@ seu marido de longa data...</i>
 809
 00:49:37,210 --> 00:49:39,817
 <i>e morreu por suas mãos,
-em seu 34º ano de sua vida.</i>
+em seu 34º ano de vida.</i>
 
 810
 00:49:39,917 --> 00:49:43,375
@@ -3835,11 +3835,11 @@ Ou só não me atende, sei lá.
 
 835
 00:51:10,529 --> 00:51:11,862
-É um filho da puta.
+É um babaca.
 
 836
 00:51:16,444 --> 00:51:21,902
-Então, algo assim... maluco aconteceu
+Então, algo... maluco assim aconteceu
 com você no Afeganistão?
 
 837
@@ -6302,11 +6302,11 @@ Ponty... pool ...</i>
 
 1376
 01:35:29,016 --> 01:35:30,473
-<i>Vamos dar o fora.</i>
+Vamos dar o fora.
 
 1377
 01:35:31,054 --> 01:35:32,062
-Onde vamos?
+Para onde vamos?
 
 1378
 01:35:32,303 --> 01:35:35,085
@@ -6357,7 +6357,7 @@ de iniciar uma pergunta.
 
 1388
 01:35:57,967 --> 01:35:59,195
-Onde vamos, Johnny?
+Aonde vamos, Johnny?
 
 1389
 01:35:59,206 --> 01:36:02,049
