@@ -555,8 +555,8 @@ gostaria ser um pássaro
 
 125
 00:09:11,059 --> 00:09:13,084
-Vão devagar, gente.
-Há três caminhões de carga...
+<i>Vão devagar, gente.
+Há três caminhões de carga...</i>
 
 126
 00:09:13,184 --> 00:09:15,959
