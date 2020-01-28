@@ -932,7 +932,7 @@ poderá até chamar seu...
 
 207
 00:12:08,950 --> 00:12:10,267
-sei lá, pastor irritado.
+sei lá, pastor!
 
 208
 00:12:10,367 --> 00:12:16,783
@@ -1002,17 +1002,17 @@ OK... Grant, eu...
 
 223
 00:13:03,652 --> 00:13:05,758
-- Eu... eu quero sua personalidade.
+- Eu... eu quero o Mazzy.
 - OK.
 
 224
 00:13:05,858 --> 00:13:08,050
-Contratei sua personalidade,
-quero sua personalidade.
+Contratei o Mazzy,
+eu quero o Mazzy.
 
 225
 00:13:08,150 --> 00:13:10,425
-Só preciso que ela venha
+Só preciso que ele venha
 um pouco mais devagar.
 
 226
@@ -1070,7 +1070,7 @@ Estou dirigindo ao trabalho, hoje, e...
 
 238
 00:13:55,568 --> 00:13:58,252
-eu paro na placa de pare
+eu paro na placa de "pare"
 entre as estradas Drum e a Principal,
 
 239
