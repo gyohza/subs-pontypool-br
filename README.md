@@ -48,7 +48,7 @@ It'd be a bit troublesome to fit them into the context, so I left them translate
 
 ### [`take no prisoners`](https://en.wiktionary.org/wiki/take_no_prisoners)
 
-This was by far the hardest one.
+This was by far <del>the hardest one</del>. *(Actually, no. I'm adding another one.)* 
 
 Roughly means acting relentlessly and often ruthlessly in the pursuit of something, not caring about how people feel or what the consequences of one's actions are or will be. No such an expression in Portuguese (that I know of).
 
@@ -101,6 +101,18 @@ This one wasn't actually difficult, just something that others might have done d
 Theoretically you *could* translate it as "coloquei para repetir" ("I set it to repeat itself") or "coloquei em repetição" ("I set it into repetition"), because "repetição" is the closest we have to "loop" in Portuguese - in fact, that's the politically correct way people call a "loop" in programming while in college.
 
 However the truth is that we don't *ever* call it "repetição", except when specifically trying to be politically correct. Even on everyday language, younger PT-BR speakers would use the word "loop" as is (although some will annoyingly and stubbornly use "looping" instead of "loop"). In technical jargon, especially in the computing, musical and presumbly radio businesses, virtually everybody knows what a "loop" is. So no, I won't be calling it "repetição".
+
+### *A big, cold...*
+
+> `00:08:14.000` ... dull, dark, white, empty, neverending, blow-my-brains-out, seasonal affective disorder, freaking-kill-me-now weather front - that will last all day.
+
+**This** was the hardest one. I'm still pretty dissatisfied with what I came up with. There are *a lot* problems with this:
+- In Portuguese, adjectives usually succeed nouns, rather than precede them;
+- I wasn't sure what to make of "blow-my-brains-out" and "freaking-kill-me-now";
+- "Depressão invernal" (SAD) doesn't sound as good as an adjective, either;
+- It's such an annoyingly long sentence.
+
+So what happened to the translation is... most of SAD's preceding adjectives became its own and then the "freaking-kill-me-now weather front" became the cause of SAD - if that makes sense.
 
 <!-- to be continued -->
 
