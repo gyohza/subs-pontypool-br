@@ -2944,7 +2944,7 @@ Estou perto dos trilhos de trem.</i>
 643
 00:36:06,452 --> 00:36:10,285
 <i>Fugi para cá, vindo da entrada
-do Parque Nacional.</i>
+do Parque Nacional de Nimigon.</i>
 
 644
 00:36:11,242 --> 00:36:13,766
