@@ -1221,45 +1221,45 @@ Roger, cadê você?
 
 272
 00:15:40,004 --> 00:15:41,320
-Sim. Entendido.
+<i>Sim. Entendido.</i>
 
 273
 00:15:41,420 --> 00:15:45,028
-Ainda temos um código 48 em andamento.
-É a barraca de pesca.
+<i>Ainda temos um código 48 em andamento.
+É a barraca de pesca.</i>
 
 274
 00:15:45,128 --> 00:15:46,861
 - Sydney! Syd!
-- Código 48 em andamento...
 
 275
 00:15:46,961 --> 00:15:50,710
-solicitando reforços,
-sujeitos armados, 10-4...
+<i>... solicitou reforços.
+Sujeitos armados, 10-4...</i>
 
 276
 00:15:51,460 --> 00:15:53,001
-Entendido.
+<i>Entendido.</i>
 
 277
 00:15:53,167 --> 00:15:58,067
-- Sandy Hook e Wilmont, código 48.
+- <i>Sandy Hook e Wilmont, código 48.</i>
 - O que é o código 48, Laurel Ann?
 
 278
-00:15:58,167 --> 00:16:00,667
-Quer dizer que há reféns envolvidos.
+00:15:58,167 --> 00:16:00,867
+- Quer dizer que há reféns envolvidos.
+- <i>... dois policiais no local...</i>
 
 279
-00:16:02,042 --> 00:16:03,684
-- <i>... aguardem.</i>
-- Não há nada nas linhas,
+00:16:00,891 --> 00:16:02,941
+<i>Há certa confusão...
+Aguardem.</i>
 
 280
-00:16:03,708 --> 00:16:05,941
-então vou sintonizar diretamente
-na frequência da polícia.
+00:16:02,942 --> 00:16:05,941
+Nada nas linhas... então vou sintonizar
+direto na frequência da polícia.
 
 281
 00:16:06,041 --> 00:16:07,899
