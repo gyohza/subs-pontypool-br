@@ -76,11 +76,12 @@ E 'Piscine' vira <i>pool</i>, 'piscina'.
 
 18
 00:01:13,944 --> 00:01:17,036
-'Flaque' também é 'piscina' em francês.
+'Flaque' também é 'piscina'
+em francês. Então...
 
 19
 00:01:17,060 --> 00:01:19,969
-Então, Colette Piscine,
+Colette Piscine...
 em francês, 'Panty Pool',
 
 20
@@ -173,8 +174,8 @@ Algo incrível...
 
 40
 00:02:14,369 --> 00:02:18,953
-E pensando bem, algo
-sempre está prestes a acontecer.
+Mas, pensando bem... algo
+está sempre prestes a acontecer.
 
 41
 00:02:30,783 --> 00:02:32,893
@@ -262,7 +263,7 @@ Quem é você...
 
 61
 00:04:11,624 --> 00:04:13,624
-<i>Seu farol da região.</i>
+<i>Seu farol na região.</i>
 
 62
 00:04:13,648 --> 00:04:15,368
@@ -399,6144 +400,6169 @@ E... obrigado.
 Vamos ao ar!
 
 92
+00:06:06,900 --> 00:06:11,300
+<i>♪ Rádio C.L.S.Y, Pontypool ♪</i>
+
+93
+00:06:11,324 --> 00:06:14,224
+<i>♪ C.L.S.Y.... ♪</i>
+
+94
+00:06:24,500 --> 00:06:26,900
+<i>C.L.S.Y. - Rádio Farol.</i>
+
+95
+00:06:26,924 --> 00:06:29,124
+<i>Seu farol na região.</i>
+
+96
+00:06:29,150 --> 00:06:30,850
+<i>Você está ouvindo à
+Matinal com Mazzy,</i>
+
+97
+00:06:30,874 --> 00:06:33,374
+<i>apresentado por Grant Mazzy.</i>
+
+98
 00:06:34,790 --> 00:06:37,357
 Bom dia, Pontypool.
 
-93
+99
 00:06:37,457 --> 00:06:40,414
 Esta é a Rádio 660, o farol.
 
-94
+100
 00:06:40,581 --> 00:06:44,288
 Aqui embaixo, no calabouço, abaixo da
 estrada a que chamam de 'Drum' (<i>tambor</i>)
 
-95
+101
 00:06:45,538 --> 00:06:46,538
 Eu vou...
 
-96
+102
 00:06:46,580 --> 00:06:49,205
 tocar os tambores para vocês
 durante a manhã.
 
-97
+103
 00:06:49,581 --> 00:06:52,022
 Aqui é Grant Mazzy e, como sempre...
 
-98
+104
 00:06:52,121 --> 00:07:00,103
 não terei papas na língua.
 Certo. Peguei meu café.
 
-99
+105
 00:07:00,203 --> 00:07:01,894
 E olhando lá fora...
 
-100
+106
 00:07:01,994 --> 00:07:06,311
 Eu diria... é nossa maior
 matéria de hoje, pessoal.
 
-101
+107
 00:07:06,411 --> 00:07:11,685
 Eu tive uma... experiência esquisita
 no meu caminho ao trabalho, de manhã.
 
-102
+108
 00:07:11,785 --> 00:07:15,617
 E eu gostaria de receber alguns
 conselhos de vocês mais tarde.
 
-103
+109
 00:07:16,034 --> 00:07:20,200
 Quando chamamos o serviço de emergência?
 Pensem sobre isso!
 
-104
+110
 00:07:21,200 --> 00:07:23,391
 Devo dizer: nossa produtora,
 
-105
+111
 00:07:23,491 --> 00:07:26,825
 a adorável e talentosa
 Srta. Sydney Briar, está aqui.
 
-106
+112
 00:07:27,033 --> 00:07:29,390
 E 'lucky' Laurel Ann Drummond...
 
-107
+113
 00:07:29,490 --> 00:07:31,766
 será nossa vaqueira técnica, hoje.
 
-108
+114
 00:07:31,866 --> 00:07:36,489
-Agora, eu não sabia, talvez soubessem,
+Agora, eu não sabia... Talvez soubessem,
 mas... é novidade para mim...
 
-109
+115
 00:07:37,114 --> 00:07:41,822
 Laurel Ann teve um período de serviço
 militar no Afeganistão, não faz muito tempo
 
-110
+116
 00:07:42,030 --> 00:07:44,681
 Está correto, novato.
 Todo mundo já sabe.
 
-111
+117
 00:07:44,781 --> 00:07:47,347
 Ela foi uma "Grande Mestre" na
 Feira de Outono do ano passado.
 
-112
+118
 00:07:47,447 --> 00:07:49,347
 - Notícia antiga.
 - Ei!
 
-113
+119
 00:07:49,447 --> 00:07:50,722
 Desculpe, Laurel Ann.
 
-114
+120
 00:07:50,822 --> 00:07:54,095
 Eu não fui a "Grande Mestre",
 eu fui a "Heroína em Regresso"
 
-115
+121
 00:07:54,195 --> 00:07:56,803
 Sinto muito, eu... OK?
 Muito mesmo.
 
-116
+122
 00:07:56,903 --> 00:08:00,011
-Sydney, Sydney, Sydney!
+Uh. Sydney, Sydney, Sydney!
 Vamos lá, menina!
 
-117
+123
 00:08:00,110 --> 00:08:01,887
 - Me desculpe!
 - Tudo bem.
 
-118
+124
 00:08:01,990 --> 00:08:04,616
 Acabaram de ouvir os sinceros
 pedidos de desculpa de Sydney Briar.
 
-119
+125
 00:08:04,653 --> 00:08:08,760
 Ela provavelmente... deve mais alguns
 a Laurel Ann! Continuem ligados.
 
-120
+126
 00:08:08,860 --> 00:08:12,218
 Agora, na nossa matéria de hoje...
 
-121
+127
 00:08:12,318 --> 00:08:16,300
 uma grande, gelada,
 chata, escura, branca...
 
-122
+128
 00:08:16,400 --> 00:08:19,801
 vazia, sem fim,
 de explodir os miolos...
 
-123
+129
 00:08:19,901 --> 00:08:22,092
 depressão invernal...
 
-124
+130
 00:08:22,192 --> 00:08:24,174
 desse tempo de matar...
 
-125
+131
 00:08:24,274 --> 00:08:26,817
 e que durará... o dia inteiro.
 
-126
+132
 00:08:27,817 --> 00:08:31,006
 Ou, quem sabe... quando o vento
 mudar, mais tarde...
 
-127
+133
 00:08:31,106 --> 00:08:34,481
 seremos aquecidos pelo efeito estufa
 da zona industrial ao sul.
 
-128
+134
 00:08:34,856 --> 00:08:38,089
 Ave Maria! "Ainda que eu andasse"...
 passaremos para Ken Loney,
 
-129
+135
 00:08:38,189 --> 00:08:40,731
 no 'Helicóptero Sunshine'.
 
-130
+136
 00:08:41,481 --> 00:08:44,130
 <i>É sempre mais claro
 acima das nuvens, Grant.</i>
 
-131
+137
 00:08:44,230 --> 00:08:46,129
 E aí, Ken? Como você está?
 
-132
+138
 00:08:46,229 --> 00:08:49,963
 Como estão as coisas no pássaro, aí?
 Vai continuar nele durante a tempestade?
 
-133
+139
 00:08:50,062 --> 00:08:52,603
 <i>Sim, senhor. Pode apostar.</i>
 
-134
+140
 00:08:52,812 --> 00:08:54,878
 Isso deve ser perigoso.
 É seguro, Ken?
 
-135
+141
 00:08:54,977 --> 00:08:57,420
 <i>Bom, eu ficarei aqui, Grant,
 vigiando a tempestade,</i>
 
-136
+142
 00:08:57,520 --> 00:08:59,837
 <i>observando todas as rotas
 dentro e ao redor da região.</i>
 
-137
+143
 00:08:59,937 --> 00:09:02,002
 - Verdade?
 - <i>Verdade, a-hã.</i>
 
-138
+144
 00:09:02,102 --> 00:09:04,835
 Beleza. Rapaz, não
 gostaria ser um pássaro
 
-139
+145
 00:09:04,860 --> 00:09:07,927
 - se a tempestade vier como o previsto.
 - Não me chame de 'menina', Grant.
 
-140
+146
 00:09:07,952 --> 00:09:11,035
 - <i>Pessoal, dentro e fora da região...</i>
 - E deixe Ken em paz!
 
-141
+147
 00:09:11,059 --> 00:09:13,084
 <i>Vão devagar, gente.
 Há três caminhões de carga...</i>
 
-142
+148
 00:09:13,184 --> 00:09:15,959
 - Acho que está só preocupado.
-- <i>com hélices de geração de vento...</i>
+- <i>com pás de geradores eólicos...</i>
 
-143
+149
 00:09:16,059 --> 00:09:19,041
 <i>no meio da 401.
 Lentidão para viajar a leste.</i>
 
-144
+150
 00:09:19,141 --> 00:09:21,042
 <i>E por ora é só, aqui do Sunshine.</i>
 
-145
+151
 00:09:21,142 --> 00:09:24,666
 <i>Lembre-se: tome aquela fruta,
 te levanta, te mantém em pé.</i>
 
-146
+152
 00:09:24,766 --> 00:09:26,457
 Obrigado, Ken Loney.
 
-147
+153
 00:09:26,557 --> 00:09:29,807
 Últimas notícias de Caesarea
 desta manhã.
 
-148
+154
 00:09:30,306 --> 00:09:31,372
 Vamos lá, rapaz...
 
-149
+155
 00:09:31,472 --> 00:09:32,515
 Agora, sim!
 
-150
+156
 00:09:32,972 --> 00:09:34,415
 Últimas notícias:
 
-151
+157
 00:09:34,515 --> 00:09:39,247
 a Polícia Provincial de Ontário
 anunciou a interdição...
 
-152
+158
 00:09:39,347 --> 00:09:43,929
 de cultivo de maconha em um
 discreto beco do município.
 
-153
+159
 00:09:44,304 --> 00:09:48,970
 O Agente Howard Ing diz que pode
 ser indício de um esquema maior.
 
-154
+160
 00:09:49,512 --> 00:09:52,120
 <i>Essas operações em regiões
 suburbanas de pequenas cidades...</i>
 
-155
+161
 00:09:52,220 --> 00:09:53,995
 <i>são o método de produção preferido...</i>
 
-156
+162
 00:09:54,095 --> 00:09:55,454
 Fuma maconha, Syd?
 
-157
+163
 00:09:55,554 --> 00:09:56,829
 Fumo, sim.
 
-158
+164
 00:09:56,928 --> 00:09:59,494
 Não faça piadas de aquecimento global.
 
-159
+165
 00:09:59,594 --> 00:10:01,744
 O quê? Não fiz uma piada,
 eu citei a Bíblia.
 
-160
+166
 00:10:01,844 --> 00:10:03,385
 Não tem piada nenhuma na Bíblia.
 
-161
+167
 00:10:04,010 --> 00:10:06,535
 Falando na Bíblia, estamos
 em uma igreja, não "calabouço".
 
-162
+168
 00:10:06,635 --> 00:10:11,634
 Agradecemos a você, Agente Howard Ing,
 da Polícia Provincial de Ontário.
 
-163
+169
 00:10:12,384 --> 00:10:13,551
 Sabiam...
 
-164
+170
 00:10:14,091 --> 00:10:15,925
 Nossos produtores de maconha...
 
-165
+171
 00:10:16,426 --> 00:10:19,408
 estão metidos em um negócio
 verdadeiramente perigoso.
 
-166
+172
 00:10:19,508 --> 00:10:23,032
 Perigosas... armadilhas...
 
-167
+173
 00:10:23,132 --> 00:10:26,239
 protegendo suas operações
 de olhos intrometidos.
 
-168
+174
 00:10:26,339 --> 00:10:27,740
 Minas foram encontradas...
 
-169
+175
 00:10:27,760 --> 00:10:29,025
 - nos quintais...
 - Sossega, Grant!
 
-170
+176
 00:10:29,049 --> 00:10:32,449
 Possuem cães de ataque ferozes e
 munição para armar um povo!
 
-171
+177
 00:10:32,549 --> 00:10:35,005
 Mas essas são vizinhanças
 de família, pessoal!
 
-172
+178
 00:10:35,548 --> 00:10:38,155
 Se Júnior joga uma bola
 pela janela deles...
 
-173
+179
 00:10:38,255 --> 00:10:41,071
 é possível que acione um
 esquadrão da morte!
 
-174
+180
 00:10:41,100 --> 00:10:42,100
 O que é que está fazendo?
 
-175
+181
 00:10:42,171 --> 00:10:45,363
 Minha produtora Sydney está falando em
 meu ouvido. Felizmente, não a escutam.
 
-176
+182
 00:10:45,373 --> 00:10:47,865
 - Ninguém liga, Grant, para sua...
 - Sydney diz que ninguém liga.
 
-177
+183
 00:10:47,879 --> 00:10:49,963
 - Talvez tenha razão.
 - Esqueceu o encerramento após o anúncio,
 
-178
+184
 00:10:49,987 --> 00:10:53,136
 - Preciso que faça o encerramento.
 - Mas eu acho que vocês ligam, amigos.
 
-179
+185
 00:10:53,295 --> 00:10:55,255
 "Sem papas na língua"...
 sabe o que significa?
 
-180
+186
 00:10:55,260 --> 00:10:56,410
 Significa divulgação total,
 
-181
+187
 00:10:56,419 --> 00:10:58,707
 - quaisquer que sejam as consequências.
 - Não é 'divulgação total, Grant.
 
-182
+188
 00:10:58,711 --> 00:10:59,613
 'Encerramentos escolares'.
 
-183
+189
 00:10:59,619 --> 00:11:02,826
 Quero que leia os encerramentos
 escolares. É disso que precisam!
 
-184
+190
 00:11:03,251 --> 00:11:05,901
 Rádio 660, o farol.
 
-185
+191
 00:11:06,001 --> 00:11:09,067
 Ei! Não pode me cortar desse jeito.
 Jesus.
 
-186
+192
 00:11:09,167 --> 00:11:13,192
 OK, quer saber, Grant, toda essa
 persona de 'divulgação completa'...
 
-187
+193
 00:11:13,292 --> 00:11:14,858
 funciona melhor em um contexto maior.
 
-188
+194
 00:11:14,958 --> 00:11:17,399
 É, isso não vai me tirar o emprego.
 
-189
+195
 00:11:17,499 --> 00:11:19,107
 Bom, e tem essa, também.
 
-190
+196
 00:11:19,207 --> 00:11:22,649
 O ponto é... pequenas cidades
 já não têm 'papas na língua'.
 
-191
+197
 00:11:22,749 --> 00:11:25,482
 O nome disso é "fofoca", e
 está bem à frente de você.
 
-192
+198
 00:11:25,595 --> 00:11:27,245
 Não, não, Sydney.
 Não falo de fofoca.
 
-193
+199
 00:11:27,248 --> 00:11:30,939
 Falo de construir um
 elo com meus ouvintes.
 
-194
+200
 00:11:31,039 --> 00:11:33,664
 Sabe? Agitá-los, um pouquinho.
 
-195
+201
 00:11:34,372 --> 00:11:36,688
 ... Fazemos notícias do tempo,
 esportes, eventos locais.
 
-196
+202
 00:11:36,788 --> 00:11:38,789
 É isso que preciso que faça.
 
-197
+203
 00:11:39,329 --> 00:11:42,271
 E o que raios você pensa que tem
 para divulgar pra gente, aliás?
 
-198
+204
 00:11:42,371 --> 00:11:45,746
 O que é que acha que
 temos que ouvir de você?
 
-199
+205
 00:11:46,078 --> 00:11:47,537
 Sei lá.
 
-200
+206
 00:11:48,037 --> 00:11:51,077
 Na verdade, sei sim, Sydney.
 
-201
+207
 00:11:52,120 --> 00:11:53,936
 Estou tentando irritar algumas pessoas.
 
-202
+208
 00:11:54,036 --> 00:11:57,769
 porque é assim que a coisa é feita...
 simples assim.
 
-203
+209
 00:11:57,868 --> 00:11:59,394
 Sabe, um ouvinte irritado...
 
-204
+210
 00:11:59,494 --> 00:12:02,660
 é um ouvinte atento e que
 não vai mudar de frequência.
 
-205
+211
 00:12:02,825 --> 00:12:06,268
 Inclusive poderá até chamar seu amiguinho
 irritado e fazê-lo ouvir, também.
 
-206
+212
 00:12:06,368 --> 00:12:08,850
 E aí, seu amiguinho irritado
 poderá até chamar seu...
 
-207
+213
 00:12:08,950 --> 00:12:10,267
 sei lá, pastor!
 
-208
+214
 00:12:10,367 --> 00:12:16,783
 E é assim, Madame Briar, que se constrói
 uma legião de ouvintes leais.
 
-209
+215
 00:12:18,908 --> 00:12:23,932
 OK, eu... Isso tudo soa
 muito agradável, tenho certeza. OK?
 
-210
+216
 00:12:25,532 --> 00:12:29,556
 Sabe, Grant, você é de primeira,
 e está fazendo um trabalho de primeira...
 
-211
+217
 00:12:29,656 --> 00:12:31,136
 mas deixe-me contá-lo uma coisa...
 
-212
+218
 00:12:31,696 --> 00:12:35,097
 Cidades pequenas, elas... elas...
 são locais extremamente orgulhosos,
 
-213
+219
 00:12:35,197 --> 00:12:36,846
 com... pessoas orgulhosas.
 
-214
+220
 00:12:36,946 --> 00:12:40,929
 Pessoas que precisam saber se
 o ônibus da escola está vindo.
 
-215
+221
 00:12:41,029 --> 00:12:44,054
 E aí, se entra aqui com seu
 'sem papas na língua' daqui...
 
-216
+222
 00:12:44,154 --> 00:12:46,512
 e seu 'irritar todo mundo' dali,
 
-217
+223
 00:12:46,612 --> 00:12:50,902
 as pessoas vão só achar que é um babaca.
 
-218
+224
 00:12:52,027 --> 00:12:54,219
 OK... OK.
 
-219
+225
 00:12:54,319 --> 00:12:57,510
 Digo, você vai envergonhar e alienar...
 
-220
+226
 00:12:57,610 --> 00:12:59,360
 OK, eu disse 'OK'.
 
-221
+227
 00:12:59,652 --> 00:13:02,010
 Desculpe, é só a realidade.
 
-222
+228
 00:13:02,110 --> 00:13:03,552
 OK... Grant, eu...
 
-223
+229
 00:13:03,652 --> 00:13:05,758
 - Eu... eu quero o Mazzy.
 - OK.
 
-224
+230
 00:13:05,858 --> 00:13:08,050
 Contratei o Mazzy,
 eu quero o Mazzy.
 
-225
+231
 00:13:08,150 --> 00:13:10,425
 Só preciso que ele venha
 um pouco mais devagar.
 
-226
+232
 00:13:10,525 --> 00:13:15,300
 Com um pouco menos de intimidade.
 Um pouco... mais devagar.
 
-227
+233
 00:13:15,400 --> 00:13:18,591
 Certo, já entendi.
 Não sou burro.
 
-228
+234
 00:13:18,691 --> 00:13:20,340
 Não foi isso que quis dizer.
 
-229
+235
 00:13:20,440 --> 00:13:23,006
 Queria ouvir o que ele tinha pra dizer.
 
-230
+236
 00:13:23,106 --> 00:13:26,063
 Ah, por favor.
 Ele só falaria sobre si mesmo.
 
-231
+237
 00:13:27,398 --> 00:13:30,423
 OK, Pontypool. Bom dia.
 
-232
+238
 00:13:30,523 --> 00:13:33,673
 Sabem, queria falar com vocês
 sobre algo que tem...
 
-233
+239
 00:13:33,772 --> 00:13:35,188
 me incomodado,
 
-234
+240
 00:13:35,438 --> 00:13:37,187
 a manhã inteira.
 
-235
+241
 00:13:49,978 --> 00:13:51,503
 Aí vai minha pergunta, Pontypool.
 
-236
+242
 00:13:51,510 --> 00:13:53,404
 Essa... essa é minha história.
 Fiquem atentos...
 
-237
+243
 00:13:53,477 --> 00:13:55,467
 Estou dirigindo ao trabalho, hoje, e...
 
-238
+244
 00:13:55,568 --> 00:13:58,252
 eu paro na placa de "pare"
 entre as estradas Drum e a Principal,
 
-239
+245
 00:13:58,352 --> 00:14:03,183
 e... são 6:30 da manhã,
 e está frio, e está escuro...
 
-240
+246
 00:14:03,808 --> 00:14:07,500
 de repente, uma mulher aparece do nada...
 
-241
+247
 00:14:07,600 --> 00:14:10,708
 Não a ouvi e nem estava movendo
 o carro direito.
 
-242
+248
 00:14:10,808 --> 00:14:13,891
 De repente...
 ela está no vidro do passageiro.
 
-243
+249
 00:14:14,016 --> 00:14:16,082
 Estava balbuciando algo,
 mas não conseguia...
 
-244
+250
 00:14:16,120 --> 00:14:17,685
 Não a entendo, não a escuto...
 
-245
+251
 00:14:17,710 --> 00:14:20,344
 não sei do que se trata.
 E aí... 'puf'!
 
-246
+252
 00:14:20,369 --> 00:14:21,547
 Sumiu de vista.
 
-247
+253
 00:14:26,764 --> 00:14:32,038
 E aí, o que faço?
 Disco 911?
 
-248
+254
 00:14:32,138 --> 00:14:34,079
 Pra quem ligo?
 
-249
+255
 00:14:34,179 --> 00:14:36,021
 Ninguém.
 
-250
+256
 00:14:37,096 --> 00:14:40,970
 Nosso número é 519-555-3486
 
-251
+257
 00:14:41,802 --> 00:14:44,178
 Diga-me o que tenho que fazer.
 
-252
+258
 00:15:02,592 --> 00:15:03,925
 Bom dia.
 
-253
+259
 00:15:04,426 --> 00:15:06,259
 De onde está falando?
 
-254
+260
 00:15:08,550 --> 00:15:11,091
 O que gostaria de dizer ao
 Grant, esta manhã?
 
-255
+261
 00:15:13,798 --> 00:15:16,656
 - Desculpe - o quê?
 - Minha irmã já ligou?
 
-256
+262
 00:15:16,756 --> 00:15:17,807
 Não.
 
-257
+263
 00:15:18,548 --> 00:15:20,198
 Ué, que esquisito...
 
-258
+264
 00:15:20,298 --> 00:15:22,822
 Minha irmã nunca, nunca
 fica o dia sem ligar.
 
-259
+265
 00:15:22,922 --> 00:15:25,214
 E cadê o Roger? Já é quase 10:00.
 
-260
+266
 00:15:25,921 --> 00:15:27,609
 - O que é?
 - Grant trouxe cartões...
 
-261
+267
 00:15:27,610 --> 00:15:29,635
 de Dia dos Namorados.
 Guarde-os por aí.
 
-262
+268
 00:15:29,705 --> 00:15:33,071
 Sabe de uma coisa?
 Ele está indo bem.
 
-263
+269
 00:15:33,171 --> 00:15:35,251
 Bom, vou ligar para Sra. Tripp...
 
-264
+270
 00:15:35,254 --> 00:15:37,070
 há algo chegando no rádio.
 
-265
+271
 00:15:37,170 --> 00:15:39,904
 Roger, cadê você?
 
-266
+272
 00:15:40,004 --> 00:15:41,320
 Sim. Entendido.
 
-267
+273
 00:15:41,420 --> 00:15:45,028
 Ainda temos um código 48 em andamento.
 É a barraca de pesca.
 
-268
+274
 00:15:45,128 --> 00:15:46,861
 - Sydney! Syd!
 - Código 48 em andamento...
 
-269
+275
 00:15:46,961 --> 00:15:50,710
 solicitando reforços,
 sujeitos armados, 10-4...
 
-270
+276
 00:15:51,460 --> 00:15:53,001
 Entendido.
 
-271
+277
 00:15:53,167 --> 00:15:58,067
 - Sandy Hook e Wilmont, código 48.
 - O que é o código 48, Laurel Ann?
 
-272
+278
 00:15:58,167 --> 00:16:00,667
 Quer dizer que há reféns envolvidos.
 
-273
+279
 00:16:02,042 --> 00:16:03,684
 - <i>... aguardem.</i>
 - Não há nada nas linhas,
 
-274
+280
 00:16:03,708 --> 00:16:05,941
 então vou sintonizar diretamente
 na frequência da polícia.
 
-275
+281
 00:16:06,041 --> 00:16:07,899
 Sério? Nada nas linhas?
 
-276
+282
 00:16:07,999 --> 00:16:11,499
 Certo, então não façamos nada
 com isso, ainda.
 
-277
+283
 00:16:16,415 --> 00:16:18,440
 Nada feito. Também não encontro nada.
 
-278
+284
 00:16:18,539 --> 00:16:21,456
 O que quer que faça,
 não passe isso para o Grant, ainda.
 
-279
+285
 00:16:23,038 --> 00:16:24,912
 Ah. Merda!
 
-280
+286
 00:16:27,579 --> 00:16:31,937
 É, Grant. É o Gordon falando...
 Eu só queria registrar essa ideia...
 
-281
+287
 00:16:32,037 --> 00:16:33,812
 sobre o novecent... o 911...
 
-282
+288
 00:16:33,912 --> 00:16:37,853
 E se tivéssemos um outro número que fosse,
 sei lá, tipo, 912 ou algo assim,
 
-283
+289
 00:16:37,953 --> 00:16:40,062
 que não fosse para emergências absolutas...
 
-284
+290
 00:16:40,162 --> 00:16:42,728
 Então, se tivesse que...
 entrar em um meio-termo...
 
-285
+291
 00:16:42,828 --> 00:16:46,227
 e... estivesse incerto sobre
 chamar ou não o 911, chamaria o 912...
 
-286
+292
 00:16:46,327 --> 00:16:48,487
 Eu... tenho a sensação de que
 esse ideia pudesse pegar.
 
-287
+293
 00:16:48,534 --> 00:16:50,935
 Algumas pessoas poderiam,
 você sabe... abraçar a ideia.
 
-288
+294
 00:16:51,035 --> 00:16:54,410
 Gord, é uma excelente ideia.
 Deveria estar comandando o mundo.
 
-289
+295
 00:16:54,701 --> 00:16:57,658
 Pontypool... minha Pontypool...
 
-290
+296
 00:16:58,118 --> 00:16:59,975
 Interrompemos nossa sessão de ligações...
 
-291
+297
 00:17:00,075 --> 00:17:03,491
 para trazê-los notícias desta manhã
 em nossa região:
 
-292
+298
 00:17:03,657 --> 00:17:06,891
 Em Sandy Hook e Wilmont
 temos um caso envolvendo reféns.
 
-293
+299
 00:17:06,991 --> 00:17:09,824
 Dois homens sequestraram uma van
 cheia de pessoas à mão armada.
 
-294
+300
 00:17:09,991 --> 00:17:13,366
 A van está aparentemente guinchando...
 uma barraca de pesca.
 
-295
+301
 00:17:14,615 --> 00:17:17,091
 - Tiros esporádicos foram relatados.
 - OK, abafe a matéria, Grant.
 
-296
+302
 00:17:17,115 --> 00:17:20,347
 Vamos a Ken Loney. Vamos ao
 Helicóptero Sunshine.
 
-297
+303
 00:17:20,447 --> 00:17:23,554
 Ninguém sabe ainda o que
 os sequestradores querem,
 
-298
+304
 00:17:23,654 --> 00:17:25,214
 - ou se sequer conhecem ou não...
 - Sabemos que estão bêbados,
 
-299
+305
 00:17:25,238 --> 00:17:27,130
 - as pessoas na van.
 - é fim da temporada de pesca no gelo.
 
-300
+306
 00:17:27,154 --> 00:17:30,221
 Mas... considerando que é fim de
 temporada de pesca no gelo...
 
-301
+307
 00:17:30,321 --> 00:17:32,570
 hora de desmontar
 as baracas no gelo...
 
-302
+308
 00:17:32,820 --> 00:17:35,263
 as chances de que todos no gelo,
 esta manhã, estejam bêbados,
 
-303
+309
 00:17:35,363 --> 00:17:37,611
 é consideravelmente plausível.
 
-304
+310
 00:17:38,028 --> 00:17:41,177
 Pescadores bêbados... ouso dizer:
 Policiais bêbados?
 
-305
+311
 00:17:41,277 --> 00:17:42,676
 Oficiais da lei bêbados.
 
-306
+312
 00:17:42,776 --> 00:17:45,693
 Polícia Provincial de Ontário...
 bêbada.
 
-307
+313
 00:17:45,944 --> 00:17:48,219
 Ainda não foi confirmado
 por nossas fontes, naturalmente.
 
-308
+314
 00:17:48,319 --> 00:17:51,010
 Mas, a polícia, possivelmente bêbada,
 
-309
+315
 00:17:51,110 --> 00:17:55,525
 Relatou que a situação se resolveu,
 por si só.
 
-310
+316
 00:17:56,566 --> 00:17:58,716
 Apreenderam dois suspeitos.
 
-311
+317
 00:17:58,816 --> 00:18:01,091
 Ambos desarmados, aliás,
 
-312
+318
 00:18:01,191 --> 00:18:04,967
 e as três pessoas que haviam sequestrado,
 por sinal, fugiram do local.
 
-313
+319
 00:18:05,067 --> 00:18:07,716
 Torçamos para que a trilha sonora
 de nosso plantão de notícias...
 
-314
+320
 00:18:07,816 --> 00:18:10,232
 Acompanhem esta matéria
 em algum momento.
 
-315
+321
 00:18:11,065 --> 00:18:12,422
 Agora, sim.
 
-316
+322
 00:18:12,522 --> 00:18:14,839
 Ah! O estado de embriaguez
 se estabilizou...
 
-317
+323
 00:18:14,939 --> 00:18:16,547
 em níveis aceitáveis esta manhã,
 
-318
+324
 00:18:16,547 --> 00:18:19,181
 ao passo que Bob 'Buddy' Roseland e
 Derek 'Olho Morto' McCormack,
 
-319
+325
 00:18:19,190 --> 00:18:20,644
 PPO, Seção de Pontypool...
 
-320
+326
 00:18:20,646 --> 00:18:23,938
 - Feche, aí, Grant!
 - Contiveram o sequestro.
 
-321
+327
 00:18:24,105 --> 00:18:27,046
 Voltaremos com atualizações
 assim que a situação soluçar.
 
-322
+328
 00:18:27,146 --> 00:18:30,712
 Agora vamos a Ken Loney,
 no helicóptero Sunshine,
 
-323
+329
 00:18:30,812 --> 00:18:33,354
 para te orientar na sua viagem matinal.
 
-324
+330
 00:18:34,354 --> 00:18:37,935
 Muito cuidado com moças malucas
 na neve e lembre-se:
 
-325
+331
 00:18:38,061 --> 00:18:41,727
 Onde quer que vá,
 chegue lá inteiro!
 
-326
+332
 00:18:50,684 --> 00:18:55,058
 Não seja assim. Você precisam aprender
 a rir de si mesmos, às vezes!
 
-327
+333
 00:18:57,766 --> 00:18:59,391
 Essa história não tem graça.
 
-328
+334
 00:19:00,641 --> 00:19:03,208
 Derek McCormack é alcoólatra.
 
-329
+335
 00:19:03,308 --> 00:19:07,598
 Bob Roseland é alcoólatra.
 Estão tentando manter seus empregos.
 
-330
+336
 00:19:10,932 --> 00:19:13,056
 Derek é meu cunhado.
 
-331
+337
 00:19:13,597 --> 00:19:16,055
 Ex... ex-cunhado.
 
-332
+338
 00:19:19,513 --> 00:19:21,637
 Grant...
 
-333
+339
 00:19:22,887 --> 00:19:25,013
 Ken Loney não está em um helicóptero.
 
-334
+340
 00:19:26,305 --> 00:19:27,846
 Quê?
 
-335
+341
 00:19:30,053 --> 00:19:33,494
 O Helicóptero Sunshine é o
 Dodge Dart do Ken.
 
-336
+342
 00:19:33,594 --> 00:19:35,343
 Ele coloca efeitos sonoros.
 
-337
+343
 00:19:38,386 --> 00:19:42,426
 Ken fica em uma colina
 para sua visão aérea.
 
-338
+344
 00:19:44,219 --> 00:19:46,284
 E... as pessoas se empolgam...
 
-339
+345
 00:19:46,383 --> 00:19:47,993
 ao tê-lo ali no céu,
 
-340
+346
 00:19:48,093 --> 00:19:51,367
 voando por aí em seu
 Helicóptero Sunshine, mesmo assim...
 
-341
+347
 00:19:51,467 --> 00:19:54,383
 Nossa. Tenho certeza que sim.
 OK.
 
-342
+348
 00:19:54,758 --> 00:19:56,008
 OK.
 
-343
+349
 00:19:59,050 --> 00:20:00,283
 Syd...
 
-344
+350
 00:20:00,382 --> 00:20:01,841
 Sim?
 
-345
+351
 00:20:04,756 --> 00:20:06,298
 Odeio o inverno.
 
-346
+352
 00:20:06,881 --> 00:20:10,339
 - Todos odeiam.
 - Não, não como eu.
 
-347
+353
 00:20:11,214 --> 00:20:14,198
 Nesses últimos invernos tenho sentido que
 tenho vivido no porão do mundo.
 
-348
+354
 00:20:14,297 --> 00:20:17,546
 E é tão frio, tão escuro.
 
-349
+355
 00:20:18,880 --> 00:20:21,047
 Sim, é mesmo.
 
-350
+356
 00:20:22,171 --> 00:20:24,462
 Bom, você vai...
 vai dar tudo certo.
 
-351
+357
 00:20:26,545 --> 00:20:31,444
 Ah, e Grant - façamos assim: quando
 confirmarmos a matéria da barraca,
 
-352
+358
 00:20:31,544 --> 00:20:33,528
 a traremos direto pra você,
 logo em seguida. OK?
 
-353
+359
 00:20:33,628 --> 00:20:35,395
 E será sua, mesmo que não seja legítima...
 
-354
+360
 00:20:35,419 --> 00:20:38,669
 você poderá fazer aquele seu...
 'sem papas na língua', OK?
 
-355
+361
 00:20:38,877 --> 00:20:40,985
 E você vai achar graça, dessa vez?
 
-356
+362
 00:20:41,085 --> 00:20:44,500
 Acharei tanta graça quanto achei
 da última vez. Pode apostar!
 
-357
+363
 00:21:03,247 --> 00:21:07,023
 Estava conversando com o Agente Roseland...
 estava falando sério!
 
-358
+364
 00:21:07,123 --> 00:21:08,982
 Digo, ele está completamente surtado!
 
-359
+365
 00:21:09,082 --> 00:21:10,856
 Algo aconteceu esta manhã no gelo...
 
-360
+366
 00:21:10,956 --> 00:21:14,647
 e os deixou em um estado...
 e agora, quer que abandonemos a matéria.
 
-361
+367
 00:21:14,720 --> 00:21:15,720
 Abandonar?
 
-362
+368
 00:21:15,747 --> 00:21:17,189
 Bom, provavelmente não é nada.
 
-363
+369
 00:21:17,288 --> 00:21:19,270
 - E provavelmente apenas mentira.
 - Provavelmente.
 
-364
+370
 00:21:19,271 --> 00:21:21,514
 De qualquer forma, o elenco de
 Lawrence das Arábias chegou,
 
-365
+371
 00:21:21,537 --> 00:21:23,297
 então vamos animar o dia assim.
 
-366
+372
 00:21:23,494 --> 00:21:25,145
 Laurel Ann falando.
 
-367
+373
 00:21:25,244 --> 00:21:27,704
 OK, OK.
 É Ken Loney.
 
-368
+374
 00:21:28,579 --> 00:21:32,078
 Oi, Ken!
 Ei, Ken, devagar...
 
-369
+375
 00:21:32,244 --> 00:21:33,285
 É.
 
-370
+376
 00:21:33,703 --> 00:21:35,452
 Ken, onde você está?
 
-371
+377
 00:21:36,160 --> 00:21:37,185
 OK.
 
-372
+378
 00:21:37,284 --> 00:21:39,226
 Ken, calma.
 
-373
+379
 00:21:39,326 --> 00:21:41,952
 Devagar, e... e quantos?
 
-374
+380
 00:21:47,200 --> 00:21:48,516
 OK, Ken. Só um segundo.
 
-375
+381
 00:21:48,616 --> 00:21:50,725
 OK - encerrar 'Esquina Pontypool', Grant.
 
-376
+382
 00:21:50,725 --> 00:21:52,383
 Temos uma matéria boa chegando.
 Escuta...
 
-377
+383
 00:21:52,407 --> 00:21:54,615
 Mantenha controle, OK?
 
-378
+384
 00:21:54,825 --> 00:21:56,782
 Ken, só um segundo.
 
-379
+385
 00:21:58,157 --> 00:22:00,057
 Um segundo. Vamos ao ar.
 
-380
+386
 00:22:00,157 --> 00:22:02,181
 Teremos dobradinha nesse fim de semana...
 
-381
+387
 00:22:02,281 --> 00:22:05,382
 então confirmarei se está certo,
 que os dois ocorrerão ao mesmo tempo,
 
-382
+388
 00:22:05,406 --> 00:22:07,073
 mas pelo jeito é isso, mesmo.
 
-383
+389
 00:22:09,364 --> 00:22:12,322
 Temos novas notícias
 de nossa região nesta manhã.
 
-384
+390
 00:22:12,863 --> 00:22:16,055
 Aparentemente um grande grupo
 de pessoas juntou-se...
 
-385
+391
 00:22:16,155 --> 00:22:21,679
 do lado de fora do consultório
 do Dr. John Mendez.
 
-386
+392
 00:22:21,979 --> 00:22:25,029
 Aparenta ser algum tipo de protesto
 
-387
+393
 00:22:25,029 --> 00:22:29,803
 e a polícia descreveu os manifestantes
 como 'desgovernados'.
 
-388
+394
 00:22:29,903 --> 00:22:32,469
 O Dr. John Mendez, talvez se lembrem,
 
-389
+395
 00:22:32,569 --> 00:22:37,776
 Ele foi o... ele estava sob investigações
 por passar receitas médicas desnecessárias.
 
-390
+396
 00:22:37,901 --> 00:22:40,426
 Temos uma reportagem exclusiva ao vivo,
 
-391
+397
 00:22:40,526 --> 00:22:44,175
 de Ken Loney no...
 no Helicóptero Sunshine.
 
-392
+398
 00:22:44,275 --> 00:22:46,233
 O que está vendo aí, Ken?
 
-393
+399
 00:22:46,483 --> 00:22:49,050
 <i>Grant, eu estou...
 Estou assistindo centenas...</i>
 
-394
+400
 00:22:49,149 --> 00:22:53,174
 <i>literalmente centenas de pessoas
 aglomeradas dentro e em volta do prédio.</i>
 
-395
+401
 00:22:53,274 --> 00:22:55,423
 <i>E... e parece bem estranho, daqui de cima.</i>
 
-396
+402
 00:22:55,523 --> 00:23:00,148
 <i>Parece que estão... tentando
 se enfiar lá dentro...</i>
 
-397
+403
 00:23:01,773 --> 00:23:03,214
 O que está acontecendo, Ken?
 
-398
+404
 00:23:03,314 --> 00:23:04,706
 <i>A lateral do consultório...</i>
 
-399
+405
 00:23:04,807 --> 00:23:08,047
 <i>o prédio acabou de se romper,
 está 'derramando' pessoas...</i>
 
-400
+406
 00:23:08,146 --> 00:23:10,229
 <i>Ele... ele... meio que explodiu.</i>
 
-401
+407
 00:23:11,271 --> 00:23:15,688
 <i>Jesus! É uma explosão de...
 de pessoas! Meu Deus do céu!</i>
 
-402
+408
 00:23:16,646 --> 00:23:19,296
 <i>As pessoas estão...
 estão sendo pisoteadas.</i>
 
-403
+409
 00:23:19,396 --> 00:23:22,353
 <i>Essa gente está morrendo lá embaixo!</i>
 
-404
+410
 00:23:23,687 --> 00:23:26,045
 Ken, está vendo algum policial?
 
-405
+411
 00:23:26,144 --> 00:23:30,293
 Há alguém tentando reestabelecer
 a ordem... ali embaixo?
 
-406
+412
 00:23:30,393 --> 00:23:33,127
 <i>Não! Não... Não estou vendo...
 Espere... espere... espere...</i>
 
-407
+413
 00:23:33,227 --> 00:23:36,626
 <i>Há um... comboio de caminhões...
 veículos militares...</i>
 
-408
+414
 00:23:36,726 --> 00:23:38,893
 <i>De onde vieram? Que diabos...</i>
 
-409
+415
 00:23:39,893 --> 00:23:41,475
 <i>Helicópteros...</i>
 
-410
+416
 00:23:41,600 --> 00:23:43,208
 <i>Tem um...</i>
 
-411
+417
 00:23:43,308 --> 00:23:45,934
 <i>helicóptero à direita e um à...</i>
 
-412
+418
 00:23:46,059 --> 00:23:49,808
 <i>Puta merda, preciso...
 Preciso sair logo daqui.</i>
 
-413
+419
 00:23:50,891 --> 00:23:53,041
 OK, Ken... Ken... se proteja!
 
-414
+420
 00:23:53,140 --> 00:23:55,998
 Só tente... tente sair daí.
 
-415
+421
 00:23:56,097 --> 00:23:57,472
 <i>A estrada está bloqueada.</i>
 
-416
+422
 00:23:59,140 --> 00:24:04,539
 <i>Com certeza há fatalidades, aqui...
 ali embaixo. Pessoas morreram, Grant.</i>
 
-417
+423
 00:24:04,639 --> 00:24:06,621
 <i>Eu... não sei o que diabos
 acabou de acontecer.</i>
 
-418
+424
 00:24:06,721 --> 00:24:09,831
 Bom, teremos... teremos que
 ver se conseguimos...
 
-419
+425
 00:24:09,931 --> 00:24:11,038
 - <i>Grant...</i>
 - Ken, o quê?
 
-420
+426
 00:24:11,137 --> 00:24:14,014
 Ken?
 Está aí, Ken?
 
-421
+427
 00:24:14,303 --> 00:24:17,162
 - Não sabemos sobre isso, Grant.
 - Procuraremos informações...
 
-422
+428
 00:24:17,179 --> 00:24:18,554
 sobre o que está acontecendo.
 
-423
+429
 00:24:18,554 --> 00:24:20,912
 - Deus, isso é a 5km daqui.
 - A não mais do que 3...
 
-424
+430
 00:24:21,012 --> 00:24:23,410
 5km de nossa estação.
 
-425
+431
 00:24:23,510 --> 00:24:26,035
 Não fale muito, Grant.
 Precisamos confirmar de alguma forma.
 
-426
+432
 00:24:26,135 --> 00:24:29,578
 Algo aconteceu no consultório do médico,
 aqui em Pontypool,
 
-427
+433
 00:24:29,678 --> 00:24:32,577
 envolvendo uma possível revolta.
 
-428
+434
 00:24:32,677 --> 00:24:35,451
 - Não consigo contatar a PPO.
 - Está claro que algo aconteceu,
 
-429
+435
 00:24:35,551 --> 00:24:36,576
 aqui em Pontypool.
 
-430
+436
 00:24:36,676 --> 00:24:38,366
 OK, perdemos contato com Ken.
 Faça a pausa,
 
-431
+437
 00:24:38,380 --> 00:24:40,457
 - recapitule, Grant!
 - Ouviram Ken descrever...
 
-432
+438
 00:24:40,467 --> 00:24:44,925
 o que ele viu, ou ao menos
 o que ele acha que viu.
 
-433
+439
 00:24:47,466 --> 00:24:49,490
 Sabem, o filósofo francês
 Roland Barthes...
 
-434
+440
 00:24:49,590 --> 00:24:53,199
 uma vez descreveu 'trauma'
 como uma foto de jornal sem uma legenda.
 
-435
+441
 00:24:53,299 --> 00:24:57,924
 E isso, pessoal, é o que acho
 que temos aqui, agora.
 
-436
+442
 00:25:03,713 --> 00:25:04,948
 Conseguiu Ken de volta?
 
-437
+443
 00:25:05,047 --> 00:25:05,995
 Estamos tentando.
 
-438
+444
 00:25:06,004 --> 00:25:08,189
 Estamos tentando retorno com Ken,
 contatar a polícia.
 
-439
+445
 00:25:08,213 --> 00:25:10,822
 Grant, ainda não temos nada na linha
 sobre toda essa história.
 
-440
+446
 00:25:10,922 --> 00:25:13,522
 Laurel Ann e eu checaremos os
 telefones. Checaremos nossas fontes.
 
-441
+447
 00:25:13,546 --> 00:25:16,361
 Vamos tentar encontrar algo concreto
 que possamos levar ao ar.
 
-442
+448
 00:25:16,461 --> 00:25:18,002
 OK. E o que quer que eu faça?
 
-443
+449
 00:25:18,127 --> 00:25:25,002
 Bem... "Lawrence e os Árabes" vieram...
 de muito longe. Olá, como estão?
 
-444
+450
 00:25:25,545 --> 00:25:27,735
 Só pode estar de brincadeira.
 
-445
+451
 00:25:27,835 --> 00:25:31,543
 Grant, não quero que se torne
 um problema agora.
 
-446
+452
 00:25:31,793 --> 00:25:34,984
 Mas Sydney, Sydney - temos o gancho e
 você não pode interromper desse jeito!
 
-447
+453
 00:25:35,084 --> 00:25:36,734
 Eu só preciso que faça seu trabalho.
 
-448
+454
 00:25:36,834 --> 00:25:39,934
 Essas 5 pessoas, vai entrevistá-las
 e elas cantarão uma canção...
 
-449
+455
 00:25:39,958 --> 00:25:41,275
 Sydney, você realmente acha...
 
-450
+456
 00:25:41,375 --> 00:25:45,774
 que <i>isso</i> é o que nossos ouvintes
 esperam ouvir de nós neste momento?
 
-451
+457
 00:25:45,874 --> 00:25:48,817
 Então Laurel Ann e eu buscaremos uma
 matéria sobre o assunto
 
-452
+458
 00:25:48,917 --> 00:25:52,415
 e que possamos levar ao ar.
 Obrigada!
 
-453
+459
 00:25:55,623 --> 00:25:59,580
 OK. OK, está bem.
 Que seja.
 
-454
+460
 00:25:59,955 --> 00:26:03,856
 Vamos ver que tipos de ensaios
 estão rolando na porra das Arábias!
 
-455
+461
 00:26:03,955 --> 00:26:06,914
 Vamos lá, povo!
 Vamos lá.
 
-456
-00:26:13,700 --> 00:26:16,250
-♪ O Deserto de Nefud ♪
-♪ é um ouvido cheio de areia ♪
-
-457
-00:26:16,274 --> 00:26:19,374
-♪ Se cair do camelo, ♪
-♪ ele não escutará ♪
-
-458
-00:26:19,798 --> 00:26:22,348
-♪ O Deserto de Nefud ♪
-♪ é um ouvido cheio de areia ♪
-
-459
-00:26:22,350 --> 00:26:25,100
-♪ Se cair do camelo, ♪
-♪ ele não escutará ♪
-
-460
-00:26:25,824 --> 00:26:28,951
-♪ Mas posso ouvir o garoto ♪
-- Ouça isso, Rick.
-
-461
-00:26:28,975 --> 00:26:31,475
-♪ Deitado sob a noite ♪
-
 462
-00:26:31,499 --> 00:26:34,699
-♪ Precisamos que viva para ♪
-♪ provarmos que estamos certos ♪
+00:26:13,700 --> 00:26:16,250
+<i>♪ O Deserto de Nefud ♪
+♪ é um ouvido cheio de areia ♪</i>
 
 463
-00:26:34,723 --> 00:26:37,250
-- Esse é o Lawrence das Arábias.
-♪ Posso ouvi-lo dormindo ♪
+00:26:16,274 --> 00:26:19,374
+<i>♪ Se cair do camelo, ♪
+♪ ele não escutará ♪</i>
 
 464
-00:26:37,274 --> 00:26:38,324
-♪ imóvel na areia ♪
+00:26:19,798 --> 00:26:22,348
+<i>♪ O Deserto de Nefud ♪
+♪ é um ouvido cheio de areia ♪</i>
 
 465
-00:26:38,348 --> 00:26:41,298
-♪ Preciso salvá-lo para que os ♪
-♪ mais simples possam entender ♪
+00:26:22,350 --> 00:26:25,100
+<i>♪ Se cair do camelo, ♪
+♪ ele não escutará ♪</i>
 
 466
-00:26:41,300 --> 00:26:43,700
-♪ As crianças sabem, não se ♪
-♪ trata da guerra britânica ♪
+00:26:25,824 --> 00:26:28,951
+<i>♪ Mas posso ouvir o garoto ♪</i>
+- Ouça isso, Rick.
 
 467
+00:26:28,975 --> 00:26:31,475
+<i>♪ Deitado sob a noite ♪</i>
+
+468
+00:26:31,499 --> 00:26:34,699
+<i>♪ Precisamos que viva para ♪
+♪ provarmos que estamos certos ♪</i>
+
+469
+00:26:34,723 --> 00:26:37,250
+- Esse é o Lawrence das Arábias.
+<i>♪ Posso ouvi-lo dormindo ♪</i>
+
+470
+00:26:37,274 --> 00:26:38,324
+<i>♪ imóvel na areia ♪</i>
+
+471
+00:26:38,348 --> 00:26:41,298
+<i>♪ Preciso salvá-lo para que os ♪
+♪ mais simples possam entender ♪</i>
+
+472
+00:26:41,300 --> 00:26:43,700
+<i>♪ As crianças sabem, não se ♪
+♪ trata da guerra britânica ♪</i>
+
+473
 00:26:43,702 --> 00:26:46,452
 Algo está, de fato, acontecendo,
 não podemos deixar a matéria.
 
-468
+474
 00:26:46,498 --> 00:26:48,988
 Não podemos voltar ao ar
 sem algo concreto.
 
-469
+475
 00:26:48,989 --> 00:26:52,322
 Laurel Ann, me encontre alguém
 a quem possa levar ao ar.
 
-470
+476
 00:26:52,572 --> 00:26:54,347
 Bem, tenho Aline Freethy na linha 2.
 
-471
+477
 00:26:54,447 --> 00:26:56,799
 Está histérica, mas parece estar
 por dentro de tudo.
 
-472
+478
 00:26:56,823 --> 00:26:59,156
 OK, veja se consegue acalmá-la,
 veja o que ela sabe.
 
-473
+479
 00:27:00,406 --> 00:27:02,822
 Por que não tem nada, em
 lugar nenhum sobre isso?
 
-474
+480
 00:27:02,823 --> 00:27:06,420
-♪ ... é um ouvido cheio de areia... ♪
+<i>♪ ... é um ouvido cheio de areia... ♪</i>
 - Essas são meninas beduínas.
 
-475
+481
 00:27:06,487 --> 00:27:08,094
 Grant, estamos avaliando testemunhas...
 
-476
+482
 00:27:08,194 --> 00:27:10,787
 teremos alguém pra você,
 assim que seus cantores terminarem.
 
-477
-00:27:10,811 --> 00:27:12,937
-♪ Estamos mortos? ♪
-♪ Estamos dormindo? ♪
-
-478
-00:27:13,000 --> 00:27:15,641
-♪ O camelo recebe calor do Sol ♪
-- Esse é Osama bin Laden.
-
-479
-00:27:15,665 --> 00:27:18,565
-♪ Estamos mortos? ♪
-♪ Estamos dormindo? ♪
-
-480
-00:27:18,789 --> 00:27:21,289
-♪ Acordarei o garoto caído ♪
-
-481
-00:27:21,313 --> 00:27:23,813
-♪ Não trairei a confiança ♪
-
-482
-00:27:23,837 --> 00:27:29,657
-♪ Voltarei através das dunas e ♪
-♪ moverei o coração do desterto ♪
-
 483
-00:27:29,681 --> 00:27:32,481
-♪ E preenchê-lo com seu sangue ♪
+00:27:10,811 --> 00:27:12,937
+<i>♪ Estamos mortos? ♪
+♪ Estamos dormindo? ♪</i>
 
 484
-00:27:32,505 --> 00:27:35,605
-♪ É uma confiança sagrada ♪
+00:27:13,000 --> 00:27:15,641
+<i>♪ O camelo recebe calor do Sol ♪</i>
+- Esse é Osama bin Laden.
 
 485
-00:27:35,629 --> 00:27:39,529
-♪ Para preenchê-lo com seu sangue ♪
+00:27:15,665 --> 00:27:18,565
+<i>♪ Estamos mortos? ♪
+♪ Estamos dormindo? ♪</i>
 
 486
+00:27:18,789 --> 00:27:21,289
+<i>♪ Acordarei o garoto caído ♪</i>
+
+487
+00:27:21,313 --> 00:27:23,813
+<i>♪ Não trairei a confiança ♪</i>
+
+488
+00:27:23,837 --> 00:27:29,657
+<i>♪ Voltarei através das dunas e ♪
+♪ moverei o coração do desterto ♪</i>
+
+489
+00:27:29,681 --> 00:27:32,481
+<i>♪ E preenchê-lo com seu sangue ♪</i>
+
+490
+00:27:32,505 --> 00:27:35,605
+<i>♪ É uma confiança sagrada ♪</i>
+
+491
+00:27:35,629 --> 00:27:39,529
+<i>♪ Para preenchê-lo com seu sangue ♪</i>
+
+492
 00:27:41,482 --> 00:27:42,482
 Vá se foder, Rick.
 
-487
+493
 00:27:43,606 --> 00:27:44,606
 E é isso!
 
-488
+494
 00:27:44,774 --> 00:27:50,089
 OK, esses foram... Tony Burgess,
 Maureen Hinkle, Nancy Freethy,
 
-489
+495
 00:27:50,189 --> 00:27:54,423
 Jay Pullman and Colin Pullman
 cantando "O Deserto de Nefud".
 
-490
+496
 00:27:54,523 --> 00:27:58,438
 Não consigo lembrar como termina,
 não consigo lembrar como termina...
 
-491
+497
 00:28:00,438 --> 00:28:02,462
 Como o que termina, Faraj?
 
-492
+498
 00:28:02,562 --> 00:28:05,254
 Ele continua começando de novo e de novo...
 e de novo e de novo...
 
-493
+499
 00:28:05,354 --> 00:28:11,270
 e não se chama 'Lawrence e'...
 'a Távola', chama? Não, não mais...
 
-494
+500
 00:28:27,934 --> 00:28:31,042
 OK, pessoal.
 Acho que é isso.
 
-495
+501
 00:28:31,142 --> 00:28:34,668
 OK, estou com Steve Van Denzen.
 Está no consultório de Mendez.
 
-496
+502
 00:28:34,700 --> 00:28:37,710
 e está falando de uma multidão ou
 desfile, algo assim. Está bem agitado.
 
-497
+503
 00:28:37,725 --> 00:28:39,432
 - Alguma notícia do Ken?
 - Nada.
 
-498
+504
 00:28:39,848 --> 00:28:41,873
 Porra! Vou continuar tentando
 contatar Roseland.
 
-499
+505
 00:28:41,973 --> 00:28:44,349
 Veja se consegue ir
 direto ao ponto com Van Denzen.
 
-500
+506
 00:28:53,264 --> 00:28:57,663
 Sydney, há algo bem estranho
 rolando com nossa... menina Faraj, aqui.
 
-501
+507
 00:28:57,762 --> 00:29:01,121
 OK, você foi ótimo, Grant!
 Fez seu trabalho e...
 
-502
+508
 00:29:01,221 --> 00:29:02,247
 Não ouviu?
 
-503
+509
 00:29:02,347 --> 00:29:05,413
 É, eu sei que você queria
 muito continuar com a matéria.
 
-504
+510
 00:29:05,430 --> 00:29:08,240
 Precisava que nos conseguisse um
 pouco de tempo e agradeço. De verdade.
 
-505
+511
 00:29:08,262 --> 00:29:12,036
 Então... tenho algo agora
 e estou jogando tudo para você.
 
-506
+512
 00:29:12,136 --> 00:29:14,453
 - OK, ótimo! O que tem, aí?
 - Ainda não há nada...
 
-507
+513
 00:29:14,553 --> 00:29:16,369
 nas linhas com relação a essa multidão...
 
-508
+514
 00:29:16,469 --> 00:29:18,702
 mas tenho dez testemunhas
 oculares na cidade.
 
-509
+515
 00:29:18,801 --> 00:29:20,368
 Falaremos ao vivo
 com Steve Van Denzen.
 
-510
+516
 00:29:20,468 --> 00:29:21,286
 Excelente!
 
-511
+517
 00:29:21,386 --> 00:29:24,701
 - Fodam-se as linhas, se temos olhos!
 - OK, continue quente, Grant!
 
-512
+518
 00:29:24,800 --> 00:29:27,009
 Menina, pode deixar. Manda ver!
 
-513
+519
 00:29:28,468 --> 00:29:29,992
 Notícias do Ken?
 
-514
+520
 00:29:30,092 --> 00:29:31,592
 Nada.
 
-515
+521
 00:29:32,592 --> 00:29:33,837
 Bem vindos de volta, pessoal...
 
-516
+522
 00:29:33,841 --> 00:29:35,491
 à nossa matéria em crescimento...
 
-517
+523
 00:29:35,591 --> 00:29:38,823
 em que aparentemente centenas de pessoas
 estiveram envolvidas em uma revolta,
 
-518
+524
 00:29:38,923 --> 00:29:43,757
 dentro e ao redor do consultório
 do Dr. John Mendez.
 
-519
+525
 00:29:44,633 --> 00:29:48,072
 Vocês ouviram a descrição de nosso
 Ken Loney sobre o cenário violento.
 
-520
+526
 00:29:48,172 --> 00:29:53,088
 Vamos agora... ao vivo,
 com a testemunha Steve Van Denzen.
 
-521
+527
 00:29:53,255 --> 00:29:54,380
 Steve?
 
-522
+528
 00:29:57,422 --> 00:30:01,046
 Steve?
 Steve Van Denzen?
 
-523
+529
 00:30:02,630 --> 00:30:05,986
 OK, temo que tenhamos
 perdido o sinal de...
 
-524
+530
 00:30:06,086 --> 00:30:09,111
 Steve Van Denzen. Tentaremos retornar
 contato posteriormente, mas...
 
-525
+531
 00:30:09,211 --> 00:30:13,235
 acabamos de receber um relato de um
 morador de Pontypool, que confirma...
 
-526
+532
 00:30:13,335 --> 00:30:17,277
 de fato, uma multidão foi avistada,
 hoje mais cedo...
 
-527
+533
 00:30:17,377 --> 00:30:21,984
 caminhando pela cidade, em direção
 do consultório do Dr. John Mendez.
 
-528
+534
 00:30:22,084 --> 00:30:23,652
 Aparentemente estavam movendo-se...
 
-529
+535
 00:30:23,751 --> 00:30:26,109
 E... eles... eles...
 
-530
+536
 00:30:26,110 --> 00:30:28,102
 - ainda estamos tentando entender...
 - Merda. Perdi a testemunha!
 
-531
+537
 00:30:28,125 --> 00:30:32,107
 O que motivou essas pessoas...
 essa... multidão...
 
-532
+538
 00:30:32,107 --> 00:30:33,958
 - a organizar-se de forma aparentemente...
 - Grant...
 
-533
+539
 00:30:33,958 --> 00:30:35,725
 - espontânea.
 - Acho que estão nos pregando peças.
 
-534
+540
 00:30:35,749 --> 00:30:37,400
 Sabem, é bem... difícil...
 
-535
+541
 00:30:37,500 --> 00:30:40,058
 neste momento, compreender
 o que aconteceu, mas certamente...
 
-536
+542
 00:30:40,082 --> 00:30:44,148
 Bem, ouviram nosso reporter
 Ken Loney, mais cedo...
 
-537
+543
 00:30:44,248 --> 00:30:47,606
 Não sei, Grant. Não sei, não conseguimos
 retomar contato com Ken.
 
-538
+544
 00:30:47,705 --> 00:30:50,063
 - Ainda estamos tentando...
 - Isso é completamente...
 
-539
+545
 00:30:50,063 --> 00:30:52,847
 - colocar Ken de volta.
 - ridículo! Não sei o que está acontecendo!
 
-540
+546
 00:30:52,872 --> 00:30:54,497
 C.L.S.Y.
 
-541
+547
 00:30:58,287 --> 00:31:00,329
 Pode falar mais devagar?
 Não consigo entender...
 
-542
+548
 00:31:00,496 --> 00:31:02,161
 - C.L.S.Y.?
 - OK. Alô?
 
-543
+549
 00:31:05,328 --> 00:31:09,102
 Também fomos informados que alguns dos
 manifestantes estão falando estranho.
 
-544
+550
 00:31:09,202 --> 00:31:11,436
 Balbuciam de um jeito
 que ninguém consegue entender...
 
-545
+551
 00:31:11,536 --> 00:31:16,909
 e não sabemos se estão tentando...
 assustar as pessoas? Não sabemos.
 
-546
+552
 00:31:17,034 --> 00:31:18,619
 Alô, C.L.S.Y.
 
-547
+553
 00:31:19,410 --> 00:31:20,726
 Perdão - o que disse?
 
-548
+554
 00:31:20,826 --> 00:31:23,850
 Ainda não temos uma versão oficial
 desses eventos...
 
-549
+555
 00:31:23,950 --> 00:31:25,883
 - OK. Bem colocado.
 - Mas foi relatado que...
 
-550
+556
 00:31:25,907 --> 00:31:28,224
 - até 75 pessoas estão mortas.
 - Me pareceu sincero.
 
-551
+557
 00:31:28,324 --> 00:31:29,517
 - Foi sincero.
 - E...
 
-552
+558
 00:31:29,616 --> 00:31:32,641
 - com pelo menos o dobro de feridos.
 - Estou com a CBC e CFRB na linha,
 
-553
+559
 00:31:32,741 --> 00:31:33,741
 querendo falar com você.
 
-554
+560
 00:31:33,782 --> 00:31:36,723
 Falamos agora com o Agente Bob Roseland,
 
-555
+561
 00:31:36,823 --> 00:31:40,556
 da PPO, seção de Pontypool.
 Está conosco, ao vivo.
 
-556
+562
 00:31:40,655 --> 00:31:44,155
 Agente Roseland, o que está
 acontecendo por aí?
 
-557
+563
 00:31:44,697 --> 00:31:49,139
 <i>Às 7 da manhã de hoje, nossos policiais
 atenderam a uma chamada no 911,</i>
 
-558
+564
 00:31:49,239 --> 00:31:51,139
 <i>da instalação de Golden Dawn</i>
 
-559
+565
 00:31:51,239 --> 00:31:54,846
 <i>e descobriram um grande número de
 pessoas ocupando o prédio.</i>
 
-560
+566
 00:31:54,946 --> 00:31:58,845
 <i>Eles pareciam estar tentando
 invadir o quarto da senhora idosa...</i>
 
-561
+567
 00:31:58,945 --> 00:32:02,761
 <i>e essa senhora acabou falecendo
 por ter se ferido como...</i>
 
-562
+568
 00:32:02,761 --> 00:32:04,337
 - Grant, parece que essa gente estava...
 - <i>consequência das pessoas...</i>
 
-563
+569
 00:32:04,361 --> 00:32:06,546
 - cantando algo, meio perturbador...
 - <i>se amontoando em seu quarto.</i>
 
-564
+570
 00:32:06,570 --> 00:32:09,052
 - Cantando alguma coisa...
 - E o que estavam dizendo?
 
-565
+571
 00:32:09,152 --> 00:32:12,302
 <i>Estavam repetindo coisas que
 a mulher estava dizendo.</i>
 
-566
+572
 00:32:12,402 --> 00:32:15,511
 <i>Ela é bem senil, então estava
 resmungando sobre Hitler...</i>
 
-567
+573
 00:32:15,610 --> 00:32:16,843
 <i>e um furacão...</i>
 
-568
+574
 00:32:16,843 --> 00:32:18,336
 - Conversa doida. Encerra, Grant!
 - <i>que matou seus pais...</i>
 
-569
+575
 00:32:18,360 --> 00:32:20,674
 OK, obrigado, Agente Roseland.
 
-570
+576
 00:32:20,774 --> 00:32:25,984
 Agora, estamos sabendo, também...
 sobre um "rebanho"...
 
-571
+577
 00:32:27,900 --> 00:32:31,648
 Bom, é assim que nos foi descrito:
 um "rebanho" de pessoas...
 
-572
+578
 00:32:33,565 --> 00:32:38,964
 próximo à beira da floresta,
 perto da Rodovia 26, em Edenvale.
 
-573
+579
 00:32:39,064 --> 00:32:40,631
 Onde é Edenvale, Sydney?
 
-574
+580
 00:32:40,731 --> 00:32:42,023
 É a noroeste.
 
-575
+581
 00:32:42,523 --> 00:32:44,631
 Edenvale é a noroeste daqui.
 
-576
+582
 00:32:44,731 --> 00:32:47,422
 E, também, entre aqui e ali,
 
-577
+583
 00:32:47,522 --> 00:32:50,005
 - em Phelpston, um casal..
 - Por favor, segura aí. Obrigado.
 
-578
+584
 00:32:50,105 --> 00:32:55,920
 Com suas duas crianças ficaram
 presas em seu carro, sob uma montanha...
 
-579
+585
 00:32:55,920 --> 00:32:57,704
 - uma montanha de pessoas.
 - OK. Grant, Rachel Jones...
 
-580
+586
 00:32:57,728 --> 00:32:59,287
 está dizendo que
 essas pessoas estavam...
 
-581
+587
 00:32:59,311 --> 00:33:01,787
 - É, soa muito estranho, pessoal...
 - imitando limpa-parabrisas.
 
-582
+588
 00:33:01,811 --> 00:33:04,971
 - mas é o que está sendo relatado a nós.
 - Fazendo som de limpador de parabrisa.
 
-583
+589
 00:33:06,143 --> 00:33:11,585
 A polícia diz que não conseguem...
 nem ver o carro há mais de uma hora.
 
-584
+590
 00:33:11,685 --> 00:33:14,205
 - Posso deixar você em espera, um momento?
 - Soam como insetos.
 
-585
+591
 00:33:14,851 --> 00:33:17,167
 - Sydney, a BBC World está em linha.
 - BBC?
 
-586
+592
 00:33:17,267 --> 00:33:18,952
 Há um número crescente de
 relatos de testemunhas,
 
-587
+593
 00:33:18,976 --> 00:33:23,791
 mas ainda não temos nada oficial. Nada.
 Nada foi declarado à imprensa
 
-588
+594
 00:33:23,891 --> 00:33:25,651
 - e não temos nenhum anúncio oficial.
 - Grant,
 
-589
+595
 00:33:25,725 --> 00:33:27,557
 É Nigel Healing, para você.
 
-590
+596
 00:33:27,724 --> 00:33:28,724
 O quê?
 
-591
+597
 00:33:28,807 --> 00:33:31,241
 Sim, Nigel Healing - da BBC.
 Não fale comigo, fale com ele.
 
-592
+598
 00:33:31,265 --> 00:33:34,139
 É nossa transmissão e a deles,
 querem ir ao vivo. Então vamos!
 
-593
+599
 00:33:34,139 --> 00:33:36,749
 <i>Estamos falando com Grant Mazzy,</i>
 
-594
+600
 00:33:36,849 --> 00:33:41,956
 <i>âncora de rádio de Pontypool, Ontário,
 no Canadá, que trouxe a matéria.</i>
 
-595
+601
 00:33:42,056 --> 00:33:43,597
 <i>Sr. Mazzy, está aí?</i>
 
-596
+602
 00:33:45,929 --> 00:33:48,888
 - Grant!
 - Sim, Nigel. Oi.
 
-597
+603
 00:33:49,762 --> 00:33:54,996
 <i>Sr. Mazzy, é verdade que soldados
 franco-canadenses bloquearam estradas...</i>
 
-598
+604
 00:33:55,096 --> 00:33:58,371
 <i>impedindo que pessoas deixassem
 ou entrassem em sua região...</i>
 
-599
+605
 00:33:58,470 --> 00:34:00,071
 - <i>na zona rural do Canadá?</i>
 - Eu não ouvi nada...
 
-600
+606
 00:34:00,095 --> 00:34:02,571
 sobre isso, Grant. Não acho que ele
 saiba do que está falando.
 
-601
+607
 00:34:02,595 --> 00:34:06,369
 <i>E se sim, teria isso a ver com
 o histórico de seu país...</i>
 
-602
+608
 00:34:06,468 --> 00:34:08,634
 <i>de grupos terroristas, separatistas?</i>
 
-603
+609
 00:34:09,509 --> 00:34:11,384
 Bem...
 
-604
+610
 00:34:11,925 --> 00:34:15,826
 Nigel, nada disso é verdade.
 
-605
+611
 00:34:15,926 --> 00:34:19,992
 Há rumores, claro, de que os
 militares estejam envolvidos...
 
-606
+612
 00:34:20,092 --> 00:34:24,408
 e, claro, a polícia está
 atuando neste momento, mas...
 
-607
+613
 00:34:24,507 --> 00:34:28,448
 do que podemos inferir,
 não há nada organizado...
 
-608
+614
 00:34:28,548 --> 00:34:34,241
 nada político... certamente nada
 terrrorista, ou... ou... separatista.
 
-609
+615
 00:34:34,341 --> 00:34:39,905
 <i>Mas... Sr. Mazzy, isso com certeza
 parece um tipo de rebelião.</i>
 
-610
+616
 00:34:40,005 --> 00:34:42,905
 <i>Grandes grupos de pessoas
 estão envolvidos.</i>
 
-611
+617
 00:34:43,005 --> 00:34:48,029
 <i>Mas, se não é organizado, como diz,
 e não é político,</i>
 
-612
+618
 00:34:48,129 --> 00:34:50,904
 <i>poderia, então, ajudar
 nossos espectadores...</i>
 
-613
+619
 00:34:51,004 --> 00:34:54,820
 <i>em casa entenderem, exatamente,
 isso que estamos relatando?</i>
 
-614
+620
 00:34:54,920 --> 00:34:56,419
 Ele é bom.
 
-615
+621
 00:34:57,503 --> 00:35:03,194
 Nigel, a verdade sincera é que ninguém
 se pronunciou oficialmente sobre isso.
 
-616
+622
 00:35:03,294 --> 00:35:07,484
 Nós...
 simplesmente não sabemos.
 
-617
+623
 00:35:07,584 --> 00:35:08,584
 <i>Aí está.</i>
 
-618
+624
 00:35:08,668 --> 00:35:12,443
 <i>Uma série de estranhas revoltas
 e cenário de multidões violentas...</i>
 
-619
+625
 00:35:12,543 --> 00:35:17,859
 <i>na zona rural canadense, que ninguém -
 repito, ninguém consegue explicar.</i>
 
-620
+626
 00:35:17,959 --> 00:35:21,191
 <i>Enquanto isso, relatos insistem que
 a tropa de choque franco-canadense...</i>
 
-621
+627
 00:35:21,291 --> 00:35:24,749
 <i>foi chamada para apaziguar
 essa insurgência.</i>
 
-622
+628
 00:35:25,208 --> 00:35:27,899
 Ah, vá se foder, Nigel!
 Ele não sabe de nada.
 
-623
+629
 00:35:27,999 --> 00:35:29,083
 Onde você está?
 
-624
+630
 00:35:32,123 --> 00:35:33,914
 OK. Vou te passar para a Syd.
 
-625
+631
 00:35:34,622 --> 00:35:36,830
 - Ken está em linha.
 - Ken!
 
-626
+632
 00:35:37,164 --> 00:35:41,538
 Esse foi Nigel Healing
 de nossa estação parceira, BBC.
 
-627
+633
 00:35:41,913 --> 00:35:46,063
 Agora vamos a Ken Loney,
 ao vivo em campo em Pontypool.
 
-628
+634
 00:35:46,163 --> 00:35:48,271
 Nosso reporter, Ken Loney.
 
-629
+635
 00:35:48,370 --> 00:35:50,162
 Ken? Ken?
 Está aí, Ken?
 
-630
+636
 00:35:51,662 --> 00:35:52,854
 <i>Sim...</i>
 
-631
+637
 00:35:52,954 --> 00:35:54,995
 <i>Sim, estou aqui.</i>
 
-632
+638
 00:35:55,869 --> 00:35:58,203
 <i>Mandem alguém...
 não estou seguro, aqui.</i>
 
-633
+639
 00:35:58,702 --> 00:36:00,102
 Não está seguro onde, Ken?
 
-634
+640
 00:36:00,202 --> 00:36:01,761
 Não diga onde ele está,
 vai que algo acontece...
 
-635
+641
 00:36:01,785 --> 00:36:04,060
 <i>No silo de cereais.
 Estou perto dos trilhos de trem.</i>
 
-636
+642
 00:36:04,160 --> 00:36:06,352
 <i>É um silo grande, não dos pequenos.</i>
 
-637
+643
 00:36:06,452 --> 00:36:10,285
 <i>Fugi para cá, vindo da entrada
 do Parque Nacional.</i>
 
-638
+644
 00:36:11,242 --> 00:36:13,766
 <i>Eles vieram atrás de mim...
 Você precisa mandar a polícia.</i>
 
-639
+645
 00:36:13,866 --> 00:36:15,341
 Não há contato com a polícia, Grant.
 
-640
+646
 00:36:15,365 --> 00:36:17,033
 Não conseguimos contato com a polícia.
 
-641
+647
 00:36:17,449 --> 00:36:20,158
 Pode nos contar o que houve?
 O que está acontecendo aí, Ken?
 
-642
+648
 00:36:20,782 --> 00:36:22,783
 <i>Vou te contar...</i>
 
-643
+649
 00:36:23,075 --> 00:36:24,574
 <i>Eu acabei de ver...</i>
 
-644
+650
 00:36:25,449 --> 00:36:30,681
 <i>Vi coisas hoje que vão arruinar
 o resto de minha vida normal, Grant...</i>
 
-645
+651
 00:36:30,781 --> 00:36:34,488
 <i>e eu... estou apavorado...
 estou apavorado...</i>
 
-646
+652
 00:36:35,905 --> 00:36:38,737
 Ken... Ken, me escute.
 
-647
+653
 00:36:40,572 --> 00:36:43,512
 Me parece que está seguro onde está.
 
-648
+654
 00:36:43,612 --> 00:36:46,304
 Então, não se mova e permaneça aí,
 
-649
+655
 00:36:46,404 --> 00:36:47,713
 - e vamos...
 - <i>São como canibais...</i>
 
-650
+656
 00:36:47,737 --> 00:36:52,236
 <i>Alguns estão nus e... são como cães.</i>
 
-651
+657
 00:36:52,986 --> 00:36:59,694
 <i>Seus olhos... aquele olhar...
 é... assustado, selvagem...</i>
 
-652
+658
 00:37:01,444 --> 00:37:02,802
 Meu Deus, Grant!
 
-653
+659
 00:37:02,902 --> 00:37:05,010
 - Certo, Ken - escute... escute...
 - <i>Não, não, não!</i>
 
-654
+660
 00:37:05,110 --> 00:37:07,342
 <i>Você não compreende!
 Estou olhando...</i>
 
-655
+661
 00:37:07,442 --> 00:37:10,084
 <i>através de uma portinha,
 uma pequena porta na base da porta...</i>
 
-656
+662
 00:37:10,108 --> 00:37:14,067
 <i>uma portinhola para gatos, sei lá.
 E consigo... consigo enxergar...</i>
 
-657
+663
 00:37:15,816 --> 00:37:19,774
 <i>Certo, vou me mexer
 para conseguir ver...</i>
 
-658
+664
 00:37:20,192 --> 00:37:21,441
 <i>Não!</i>
 
-659
+665
 00:37:21,691 --> 00:37:26,589
 <i>Cuidado! Santo Deus, eles... estão
 arrancando duas pessoas de uma van.</i>
 
-660
+666
 00:37:26,689 --> 00:37:27,874
 Quem são eles, Ken?
 Quem são eles?
 
-661
+667
 00:37:27,898 --> 00:37:30,938
 <i>Há um monte deles, eles...
 são pessoas, mas... estão loucos.</i>
 
-662
+668
 00:37:31,023 --> 00:37:35,547
 <i>Eles... eles estão puxando esses dois
 para fora da van. Meu Deus do céu!</i>
 
-663
+669
 00:37:35,647 --> 00:37:37,588
 <i>Estão... mordendo eles!</i>
 
-664
+670
 00:37:37,688 --> 00:37:38,588
 <i>Estão...</i>
 
-665
+671
 00:37:38,688 --> 00:37:42,147
 <i>carregando-os ao chão
 com suas bocas!</i>
 
-666
+672
 00:37:46,770 --> 00:37:48,461
 <i>Não posso...</i>
 
-667
+673
 00:37:48,561 --> 00:37:52,310
 <i>Não posso olhar, estão... mordendo,
 só mordendo, eles parecem um...</i>
 
-668
+674
 00:37:52,644 --> 00:37:55,461
 <i>um cardume de peixes, ah...
 piranhas frenéticas...</i>
 
-669
+675
 00:37:55,561 --> 00:37:57,977
 <i>É como se... tipo...</i>
 
-670
+676
 00:37:58,602 --> 00:37:59,703
 <i>É isso que parece...</i>
 
-671
+677
 00:37:59,727 --> 00:38:03,751
 <i>Parece que querem escalar ou
 consumir todo o caminho adentro.</i>
 
-672
+678
 00:38:03,851 --> 00:38:07,474
 <i>Estão tão desesperados,
 como se tivessem que entrar...</i>
 
-673
+679
 00:38:08,224 --> 00:38:12,834
 <i>Um está com sua perna inteira e,
 outro, seu braço... todo dentro...</i>
 
-674
+680
 00:38:12,934 --> 00:38:14,000
 Chega disso, Grant!
 
-675
+681
 00:38:14,100 --> 00:38:16,367
 - <i>Agora estão se despedaçando!</i>
 - Chega, Grant. Pare isso, já!
 
-676
+682
 00:38:16,391 --> 00:38:18,058
 <i>Ah!</i>
 
-677
+683
 00:38:18,390 --> 00:38:21,915
 <i>Merda! Ele ouviu isso...
 um deles está olhando para cá.</i>
 
-678
+684
 00:38:22,015 --> 00:38:26,264
 <i>Me ouviu. Ah! Está vindo! Merda,
 preciso me esconder! Está correndo!</i>
 
-679
+685
 00:38:30,556 --> 00:38:32,430
 Ken, dê o fora daí!
 
-680
+686
 00:38:32,889 --> 00:38:38,763
 Ken? Ken, é o Grant. Está...
 está ferido? Se machucou?
 
-681
+687
 00:38:40,679 --> 00:38:41,845
 <i>Não.</i>
 
-682
+688
 00:38:42,512 --> 00:38:48,261
 <i>Não. Estou.. apenas deitado, aqui.
 Estou no escuro.</i>
 
-683
+689
 00:38:48,386 --> 00:38:51,328
 <i>Ele... ele atravessou a parede, era...</i>
 
-684
+690
 00:38:51,428 --> 00:38:54,202
 - <i>o filho de Mary Gault.</i>
 - Ah, meu Deus!
 
-685
+691
 00:38:54,302 --> 00:38:56,410
 - <i>O rapaz, Jessie, ou Jake...</i>
 - Jessie...
 
-686
+692
 00:38:56,510 --> 00:38:59,659
 <i>ou algo assim? Era ele.
 Ele... não tinha mãos...</i>
 
-687
+693
 00:38:59,759 --> 00:39:02,591
 - <i>O garoto não tinha mãos...</i>
 - Grant, vamos parando isso, já!
 
-688
+694
 00:39:04,884 --> 00:39:06,568
 - O que ele está fazendo, agora?
 - Não no ar, Grant.
 
-689
+695
 00:39:06,592 --> 00:39:09,283
 Não quero ouvir ninguém
 morrendo durante a transmissão.
 
-690
+696
 00:39:09,383 --> 00:39:11,508
 <i>Ele está olhando para mim...</i>
 
-691
+697
 00:39:12,299 --> 00:39:17,490
 <i>Acho que não pode se mover.
 Deve ter... quebrado alguns ossos.</i>
 
-692
+698
 00:39:17,590 --> 00:39:22,798
 <i>Posso ver seus olhos...
 Está imobilizado... espere, espere...</i>
 
-693
+699
 00:39:23,923 --> 00:39:26,881
 - <i>Acho que ele... espere, aí...</i>
 - Não.
 
-694
+700
 00:39:27,006 --> 00:39:30,922
 Ken, o que quer que faça,
 não se aproxime dele.
 
-695
+701
 00:39:34,171 --> 00:39:39,545
 <i>Ele... ele está sussurando algo.
 Está... está dizendo alguma coisa.</i>
 
-696
+702
 00:39:39,711 --> 00:39:43,029
 <i>Vou me aproximar e ver se consigo
 escutar o que está dizendo...</i>
 
-697
+703
 00:39:43,128 --> 00:39:45,671
 Não, eu não faria isso, Ken.
 
-698
+704
 00:40:15,123 --> 00:40:16,873
 Que diabos foi isso?
 
-699
+705
 00:40:17,123 --> 00:40:18,773
 - Ken?
 - Eles cortaram nosso sinal!
 
-700
+706
 00:40:18,873 --> 00:40:21,024
 Ken? Ainda estamos com Ken?
 
-701
+707
 00:40:21,123 --> 00:40:24,230
 - Não, perdemos contato.
 - Perdemos contato com Ken, pessoal.
 
-702
+708
 00:40:24,330 --> 00:40:26,773
 Estamos providenciando
 uma tradução da...
 
-703
+709
 00:40:26,873 --> 00:40:30,288
 da mensagem que acabamos de
 receber ao vivo em nossa transmissão.
 
-704
+710
 00:40:30,454 --> 00:40:33,103
 É algo sobre "evitar membros familiares"...
 
-705
+711
 00:40:33,203 --> 00:40:36,187
 "Conversar só com bebês"...
 coisa de louco.
 
-706
+712
 00:40:36,287 --> 00:40:40,396
 - ... porém, providenciando uma tradução.
 - OK, consegui!
 
-707
+713
 00:40:40,496 --> 00:40:41,496
 Está na sua tela.
 
-708
+714
 00:40:41,579 --> 00:40:44,270
 Certo. Temos uma tradução.
 Agora, lerei isso,
 
-709
+715
 00:40:44,370 --> 00:40:47,769
 lembrando a nossos ouvintes que
 a fonte ainda não foi identificada...
 
-710
+716
 00:40:47,869 --> 00:40:50,310
 e uma análise passada identificou...
 
-711
+717
 00:40:50,410 --> 00:40:52,785
 que é possivelmente algum
 tipo de farsa.
 
-712
+718
 00:40:53,368 --> 00:40:58,368
 Lembrando que não somos autores da
 mensagem e nem sabemos quem seja.
 
-713
+719
 00:41:00,075 --> 00:41:05,616
 <i>Para sua segurança, evitem,
 contato com familiares próximos...</i>
 
-714
+720
 00:41:06,658 --> 00:41:08,224
 <i>e abstenham-se dos seguintes:</i>
 
-715
+721
 00:41:08,324 --> 00:41:10,849
 <i>todos os termos afetivos,</i>
 
-716
+722
 00:41:10,949 --> 00:41:15,515
 - <i>Como 'amor' ou 'querido'...</i>
 - Sydney. Sim, Bob. O que acontece?
 
-717
+723
 00:41:15,615 --> 00:41:19,864
 <i>quando conversam com crianças
 e durante discursos.</i>
 
-718
+724
 00:41:20,823 --> 00:41:26,113
 <i>Para maior segurança, favor
 evitar... a língua inglesa.</i>
 
-719
+725
 00:41:27,196 --> 00:41:31,029
 <i>Por gentileza, não traduzir
 esta mensagem.</i>
 
-720
+726
 00:41:36,112 --> 00:41:37,445
 O que tem pra mim?
 
-721
+727
 00:41:40,737 --> 00:41:45,443
 Era Bob Roseland.
 Disse para permanecermos aqui dentro.
 
-722
+728
 00:41:46,193 --> 00:41:48,235
 Pontypool está sob quarentena.
 
-723
+729
 00:41:48,485 --> 00:41:50,944
 Todo mundo deve ficar dentro de casa,
 o tempo todo.
 
-724
+730
 00:41:58,025 --> 00:41:59,508
 <i>Recebeu... ?</i>
 
-725
+731
 00:41:59,608 --> 00:42:00,982
 Alô. Alô?
 
-726
+732
 00:42:01,691 --> 00:42:02,734
 - <i>Recebeu isso?</i>
 - Ken?
 
-727
+733
 00:42:03,441 --> 00:42:05,966
 <i>Estou enviando um áudio com meu celular.</i>
 
-728
+734
 00:42:06,065 --> 00:42:08,507
 - Graças a Deus, Ken! Está aí?
 - <i>Recebeu isso?</i>
 
-729
+735
 00:42:08,607 --> 00:42:09,854
 Não, Ken. Não recebi isso.
 
-730
+736
 00:42:09,955 --> 00:42:11,840
 Não recebi,
 não estou recebendo nada agora.
 
-731
+737
 00:42:11,940 --> 00:42:16,799
 <i>OK, OK. Escute, vou...
 vou tentar novamente. OK, escute...</i>
 
-732
+738
 00:42:16,899 --> 00:42:19,648
 <i>e... e tenha em mente...
 visualize isso...</i>
 
-733
+739
 00:42:20,188 --> 00:42:26,796
 <i>Isso é o que... o que está prestes a ouvir
 está saindo do rapaz, filho de Mary Gault.</i>
 
-734
+740
 00:42:26,896 --> 00:42:29,923
 <i>Ele está deitado aqui, no escuro,
 com seu corpo...</i>
 
-735
+741
 00:42:30,022 --> 00:42:33,129
 <i>está despedaçado e seus pulsos...
 Posso... posso vê-los, são tocos.</i>
 
-736
+742
 00:42:33,229 --> 00:42:36,770
 <i>Não são tocos, estão apontando para
 cima... pelos lados.</i>
 
-737
+743
 00:42:37,020 --> 00:42:38,711
 Não, Grant! O que estamos fazendo?
 
-738
+744
 00:42:38,811 --> 00:42:40,685
 <i>Escute... escute...
 escute... escute...</i>
 
-739
+745
 00:42:49,227 --> 00:42:57,219
 <i>Mamãe... Mamãe...
 Me ajude...</i>
 
-740
+746
 00:42:58,058 --> 00:43:04,041
 <i>Me ajude... Mamãe...
 Me ajude...</i>
 
-741
+747
 00:43:04,141 --> 00:43:06,891
 <i>Por favor, me ajude...</i>
 
-742
+748
 00:43:09,640 --> 00:43:11,007
 <i>Você ouviu isso?</i>
 
-743
+749
 00:43:11,108 --> 00:43:14,123
 <i>Nem sei como ele está
 fazendo isso.</i>
 
-744
+750
 00:43:14,223 --> 00:43:20,889
 <i>Parece que há uma... criança
 gritando dentro de sua respiração...</i>
 
-745
+751
 00:43:21,763 --> 00:43:25,472
 - Isso está mesmo acontecendo, Ken?
 - Calma, Grant. Calma!
 
-746
+752
 00:43:31,012 --> 00:43:35,594
 Certo.
 Esse foi nosso Ken Loney.
 
-747
+753
 00:43:40,387 --> 00:43:41,637
 O quê?
 
-748
+754
 00:43:41,803 --> 00:43:45,744
 Esse foi nosso Ken...
 Ken Loney...
 
-749
+755
 00:43:45,844 --> 00:43:49,660
 - <i>Você está no rádio, né...</i>
 - Entrevistando...
 
-750
+756
 00:43:49,760 --> 00:43:53,159
 - <i>Você está no rádio, seu belo...</i>
 - um bebê gritante...
 
-751
+757
 00:43:53,259 --> 00:43:58,992
 vindo dos últimos suspiros do
 filho mais velho de Mary Gault.
 
-752
+758
 00:43:59,092 --> 00:44:00,908
 <i>Matinal com Mazzy...</i>
 
-753
+759
 00:44:01,008 --> 00:44:02,258
 - <i>Grant.</i>
 - O quê?
 
-754
+760
 00:44:02,508 --> 00:44:05,491
 <i>Grant... peixes,
 haviam peixes dourados ali.</i>
 
-755
+761
 00:44:05,591 --> 00:44:09,298
 Havia um pequeno bebê...
 Um pequenino bebê...
 
-756
+762
 00:44:10,215 --> 00:44:12,506
 - <i>Grant!</i>
 - O quê?
 
-757
+763
 00:44:18,464 --> 00:44:24,380
 Ei, Grant. Escute isso. A BBC vai
 divulgar a matéria sobre o Mendez.
 
-758
+764
 00:44:25,588 --> 00:44:29,086
 Ele acabou de dizer "Honey". Disse
 "o cartaz de Honey, a gatinha desparecida".
 
-759
+765
 00:44:30,211 --> 00:44:32,378
 - O quê?
 - Ele disse "Honey, a gatinha"...
 
-760
+766
 00:44:34,086 --> 00:44:36,254
 "Honey, a gatinha desaparecida", Grant?
 
-761
+767
 00:44:43,876 --> 00:44:45,459
 Grant?
 
-762
+768
 00:44:46,502 --> 00:44:52,291
 Oh, céus. Laurel Ann, vamos desligar.
 Encerramentos escolares... 5, 4...
 
-763
+769
 00:45:04,332 --> 00:45:08,872
 Está achando isso engraçado, Syd?
 Está rindo?
 
-764
+770
 00:45:10,372 --> 00:45:12,148
 Não é uma piada, Grant.
 
-765
+771
 00:45:12,248 --> 00:45:14,789
 Querido, estou começando a achar
 que isso não é uma piada.
 
-766
+772
 00:45:16,706 --> 00:45:19,372
 Grant, tudo que tenho parece real.
 
-767
+773
 00:45:20,163 --> 00:45:21,747
 A gata?
 
-768
+774
 00:45:22,162 --> 00:45:24,479
 Bom, foi o que Nigel Healing disse,
 aparentemente...
 
-769
+775
 00:45:24,579 --> 00:45:28,704
 "Nigel Healing disse, aparentemente"...
 Está escutando o que está me dizendo?
 
-770
+776
 00:45:32,120 --> 00:45:33,911
 Não grite comigo, Grant!
 
-771
+777
 00:45:38,494 --> 00:45:39,619
 Me desculpe...
 
-772
+778
 00:45:42,035 --> 00:45:48,534
 Syd... sabe, estou tendo...
 muita dificuldade... em acreditar nisso.
 
-773
+779
 00:45:49,908 --> 00:45:52,782
 Eu sei, Grant.
 Eu sei. Eu também. Está bem?
 
-774
+780
 00:45:52,992 --> 00:45:55,726
 Digo, será alguém está puxando
 meu tapete, está...
 
-775
+781
 00:45:55,825 --> 00:45:59,157
 tipo... tirando uma
 da minha cara? Sabe?
 
-776
+782
 00:46:00,449 --> 00:46:03,240
 Como se fosse algum tipo de trote?
 
-777
+783
 00:46:06,197 --> 00:46:08,156
 Bem, há algumas pessoas mortas.
 
-778
+784
 00:46:09,699 --> 00:46:11,698
 Uma grande quantidade, acredito.
 
-779
+785
 00:46:18,529 --> 00:46:20,887
 Olha, preciso sair daqui, OK?
 
-780
+786
 00:46:20,987 --> 00:46:24,095
 Estou tendo muita dificuldade em
 aceitar que está mesmo acontecendo, OK?
 
-781
+787
 00:46:24,195 --> 00:46:27,221
 Então... só vou sair daqui
 por um minuto.
 
-782
+788
 00:46:27,321 --> 00:46:29,761
 Grant. Grant, só preciso que
 sente-se novamente...
 
-783
+789
 00:46:29,861 --> 00:46:33,177
 Fique aí, tudo bem? Preciso de você
 em sua cadeira. Sente novamente.
 
-784
+790
 00:46:33,277 --> 00:46:35,401
 Certo. Temos silêncio...
 
-785
+791
 00:46:36,152 --> 00:46:37,877
 - Laurel Ann, use pré-gravação.
 - Qual pré-gravação?
 
-786
+792
 00:46:37,901 --> 00:46:41,568
 Não me importa! Qualquer coisa, só
 coloque. Espere... onde está indo?
 
-787
+793
 00:46:52,317 --> 00:46:55,840
 Ei... você sabe, eu preciso de você
 de volta em sua cadeira, está bem?
 
-788
+794
 00:46:55,940 --> 00:46:58,173
 Ah... eu preciso...
 Ah, meu.
 
-789
+795
 00:46:58,273 --> 00:47:01,382
 Preciso ir lá para fora e...
 dar uma olhada no...
 
-790
+796
 00:47:01,482 --> 00:47:02,731
 Grant?
 
-791
+797
 00:47:04,107 --> 00:47:06,590
 Grant, não posso ficar fora do ar!
 
-792
+798
 00:47:06,689 --> 00:47:10,439
 Sydney, isso tem algo
 a ver comigo?
 
-793
+799
 00:47:11,021 --> 00:47:12,589
 Do que está falando?
 
-794
+800
 00:47:12,688 --> 00:47:18,979
 Isso! Quero dizer... por quê? Por que
 estão com fotos de gatos mortos, hein?
 
-795
+801
 00:47:20,855 --> 00:47:22,854
 Digo, isto sou eu, ficando louco.
 
-796
+802
 00:47:23,895 --> 00:47:28,128
 Sabe de uma coisa, preciso sentir que
 há algo concreto. Preciso confirmar...
 
-797
+803
 00:47:28,228 --> 00:47:32,503
 Preciso... saber que há mais
 coisas acontecendo com todo mundo...
 
-798
+804
 00:47:32,603 --> 00:47:35,852
 além do que está acontecendo
 só comigo, me entende?
 
-799
+805
 00:47:36,726 --> 00:47:37,543
 Grant, vamos lá!
 
-800
+806
 00:47:37,642 --> 00:47:40,310
 Você!
 Você está mexendo comigo!
 
-801
+807
 00:47:40,809 --> 00:47:42,459
 Está mexendo com minha cabeça!
 
-802
+808
 00:47:42,559 --> 00:47:45,851
 E você!
 Não me venha mexer comigo!
 
-803
+809
 00:47:52,932 --> 00:47:56,224
 Grant! Grant, vamos lá!
 
-804
+810
 00:47:56,433 --> 00:47:57,723
 É perigoso!
 
-805
+811
 00:47:58,182 --> 00:48:01,099
 - Não vá, Grant! Devemos ficar aqui dentro.
 - Pessoas estão morrendo, Grant.
 
-806
+812
 00:48:01,474 --> 00:48:04,389
 Preciso dar uma olhada lá fora.
 Preciso ver o que está acontecendo!
 
-807
+813
 00:48:04,514 --> 00:48:06,930
 Não saia na nevasca...
 Preciso de você na rádio!
 
-808
+814
 00:48:07,972 --> 00:48:09,746
 Não me deixe na mão, Grant!
 
-809
+815
 00:48:09,846 --> 00:48:11,597
 Por favor, preciso de você!
 
-810
+816
 00:48:12,138 --> 00:48:13,247
 Porra!
 
-811
+817
 00:48:13,347 --> 00:48:16,180
 Beleza, pode se desmoronar!
 
-812
+818
 00:48:16,555 --> 00:48:19,412
 Nada!
 Só um dia muito, muito frio.
 
-813
+819
 00:48:19,512 --> 00:48:20,786
 Ah, merda!
 
-814
+820
 00:48:20,886 --> 00:48:21,745
 O que está vendo?
 
-815
+821
 00:48:21,845 --> 00:48:23,220
 Merda! Mexa-se!
 
-816
+822
 00:48:25,970 --> 00:48:27,529
 - <i>Não me deixe na mão, Grant!</i>
 - <i>Por favor, preciso de você!</i>
 
-817
+823
 00:48:27,553 --> 00:48:29,635
 - O que foi isso?
 - Temos um inimigo, senhor.
 
-818
+824
 00:48:30,885 --> 00:48:32,719
 Laurel Ann, 'temos um inimigo'?
 
-819
+825
 00:48:34,260 --> 00:48:35,718
 Certo, o que está acontecendo?
 
-820
+826
 00:48:36,009 --> 00:48:38,218
 Essas são minhas palavras...
 
-821
+827
 00:48:38,533 --> 00:48:39,776
 Essas são minhas palavras...
 
-822
+828
 00:48:41,759 --> 00:48:43,259
 O que está acontecendo?!
 
-823
+829
 00:48:44,284 --> 00:48:45,883
 - Estou assustada!
 - Sydney, escute...
 
-824
+830
 00:48:45,983 --> 00:48:48,833
 Estou assustado, também.
 Está ferida.
 
-825
+831
 00:48:48,835 --> 00:48:51,028
 Laurel Ann, temos kit
 de primeiros socorros?
 
-826
+832
 00:48:51,050 --> 00:48:51,950
 Sim, pode deixar.
 
-827
+833
 00:48:51,950 --> 00:48:53,908
 - O que está acontecendo?
 - Sydney, foque aqui.
 
-828
+834
 00:48:53,908 --> 00:48:56,492
 Foco. Olhe pra mim.
 Onde estão seus filhos?
 
-829
+835
 00:48:56,507 --> 00:48:58,257
 Estão com ele.
 Estão na cidade.
 
-830
+836
 00:48:58,715 --> 00:49:00,835
 É a cem quilômetros daqui.
 Estão seguros, certo?
 
-831
+837
 00:49:00,897 --> 00:49:02,797
 - Oh, céus. Sim.
 - Estão seguros, tudo bem!
 
-832
+838
 00:49:02,839 --> 00:49:04,689
 Temos trabalho a fazer.
 Vou voltar à rádio.
 
-833
+839
 00:49:04,713 --> 00:49:07,405
 Esse turno é terrível, Sydney.
 O que teremos primeiro?
 
-834
+840
 00:49:07,505 --> 00:49:08,654
 Obituários.
 
-835
+841
 00:49:08,754 --> 00:49:10,531
 Obituários?
 Certo, mas não tenho nada gravado.
 
-836
+842
 00:49:10,630 --> 00:49:11,864
 Então vamos ao vivo!
 
-837
+843
 00:49:11,964 --> 00:49:14,046
 Ao vivo! É isso que quero ouvir.
 Vamos lá.
 
-838
+844
 00:49:18,670 --> 00:49:19,670
 <i>Gwendolyn Parker...</i>
 
-839
+845
 00:49:19,752 --> 00:49:24,503
 <i>foi tirada desta vida em seu 45º ano
 por seu amado marido Stanley...</i>
 
-840
+846
 00:49:24,711 --> 00:49:28,195
 <i>que deixou este mundo repentinamente,
 nas mãos dos parentes Fiona e Michael,</i>
 
-841
+847
 00:49:28,295 --> 00:49:33,709
 <i>que morreram nas mãos um do outro
 com 12 e 17 anos, respectivamente.</i>
 
-842
+848
 00:49:34,251 --> 00:49:37,110
 <i>Janice Gwynne deixou
 seu marido de longa data...</i>
 
-843
+849
 00:49:37,210 --> 00:49:39,817
 <i>e morreu por suas mãos,
 em seu 34º ano de sua vida.</i>
 
-844
+850
 00:49:39,917 --> 00:49:43,375
 <i>Jack Gwynne sobreviveu o suficiente
 para adicionar quatro nomes...</i>
 
-845
+851
 00:49:43,916 --> 00:49:46,484
 <i>Paul Hieghton, 43 anos,
 Alice Hieghton, 42 anos,</i>
 
-846
+852
 00:49:46,583 --> 00:49:50,109
 <i>Brenda Hieghton, 12 anos,
 e o jovem Jesse Hieghton, 10 anos...</i>
 
-847
+853
 00:49:50,209 --> 00:49:54,915
 <i>a uma lista de falecidos antes que ele
 próprio perdesse a vida em um acidente.</i>
 
-848
+854
 00:49:56,082 --> 00:49:59,939
 <i>Greg Olan, 56 anos, foi morto
 por Yolanda Olan, 61 anos...</i>
 
-849
+855
 00:50:00,039 --> 00:50:02,439
 <i>que também removeu Frieda Olan, 81 anos...</i>
 
-850
+856
 00:50:02,538 --> 00:50:08,100
 <i>Patsy Owen, 12 anos, John Freethy, 33 anos,
 Peter Stamp, 38 anos e Leslie Reid, 42 anos...</i>
 
-851
+857
 00:50:08,331 --> 00:50:13,020
 <i>que causaram, em conjunto, os falecimentos
 inesperados de Joel Froth, 67 anos,</i>
 
-852
+858
 00:50:13,120 --> 00:50:15,479
 <i>Sandra Weydon, 23 anos...
 Tim Drummond, 17 anos...</i>
 
-853
+859
 00:50:15,578 --> 00:50:17,895
 <i>Cynthia Drummond, 46 anos...
 Darren Drummond, 51 anos...</i>
 
-854
+860
 00:50:17,995 --> 00:50:20,911
 <i>e Alicia Drummond, 91 anos.</i>
 
-855
+861
 00:50:21,411 --> 00:50:25,353
 <i>Os Drummonds deixaram, pelo lado de
 Cynthia, a família Hindman...</i>
 
-856
+862
 00:50:25,453 --> 00:50:27,952
 <i>até pouco antes de
 hoje, ao meio-dia....</i>
 
-857
+863
 00:50:28,576 --> 00:50:30,761
 <i>quando foram tristemente removidos
 do mundo por um ônibus...</i>
 
-858
+864
 00:50:30,785 --> 00:50:34,243
 <i>dirigido pela recém partida
 Brenda Lockland, 43 anos....</i>
 
-859
+865
 00:50:35,242 --> 00:50:39,866
 <i>que deixou breves saudades a seu marido,
 Gary, 37 anos... agora falecido.</i>
 
-860
+866
 00:50:40,490 --> 00:50:43,491
 <i>Você está ouvindo Memoriais
 na Rádio C.L.S.Y.</i>
 
-861
+867
 00:50:45,575 --> 00:50:49,490
 <i>David e Susan Varier Jones,
 casados por 51 anos...</i>
 
-862
+868
 00:50:49,865 --> 00:50:52,146
 <i>morreram repentinamente nos braços
 um do outro, sob mútuo enforcamento.</i>
 
-863
+869
 00:50:52,573 --> 00:50:53,906
 Está escutando isso?
 
-864
+870
 00:50:55,031 --> 00:50:56,906
 Estou tentando não escutar...
 
-865
+871
 00:50:59,157 --> 00:51:01,864
 Droga! Deixei meu celular
 na câmara de som.
 
-866
+872
 00:51:03,364 --> 00:51:04,947
 Quero falar com as crianças.
 
-867
+873
 00:51:05,822 --> 00:51:07,547
 Quando ele está com elas,
 desliga o celular.
 
-868
+874
 00:51:07,571 --> 00:51:09,779
 Ou só não me atende, sei lá.
 
-869
+875
 00:51:10,529 --> 00:51:11,862
 É um filho da puta.
 
-870
+876
 00:51:16,444 --> 00:51:21,902
 Então, algo assim... maluco aconteceu
 com você no Afeganistão?
 
-871
+877
 00:51:23,652 --> 00:51:27,735
 Não, senhora. Acredito que a situação
 eu tenha trazido em minha cabeça.
 
-872
+878
 00:51:33,733 --> 00:51:35,358
 O que... o que quer dizer?
 
-873
+879
 00:51:37,483 --> 00:51:39,193
 Realmente não sei.
 
-874
+880
 00:51:42,566 --> 00:51:45,149
 Vou ver se o Sr. Mazzy está sumido.
 
-875
+881
 00:51:47,149 --> 00:51:52,216
 Sumido... sumido... sumido...
 
-876
+882
 00:51:52,316 --> 00:51:58,730
 Digo, Sr. Mazzy... o Sr. Mazzy está
 sumido, ou seja, 'não está aqui'.
 
-877
+883
 00:51:59,231 --> 00:52:01,272
 Oi, querida?
 Ele está na câmara de som.
 
-878
+884
 00:52:01,854 --> 00:52:04,938
 - É, eu sei... eu só...
 - OK?
 
-879
+885
 00:52:07,229 --> 00:52:09,021
 Eu vou... eu irei...
 
-880
+886
 00:52:46,015 --> 00:52:47,432
 Com licença?!
 
-881
+887
 00:52:49,515 --> 00:52:52,497
 Desculpe. Por favor, não se assuste.
 Sou o Dr. John Mendez.
 
-882
+888
 00:52:52,597 --> 00:52:53,831
 Eu não tive muito tempo...
 
-883
+889
 00:52:53,931 --> 00:52:55,115
 Eu literalmente rastejei...
 
-884
+890
 00:52:55,139 --> 00:52:57,659
 em minhas mãos e joelhos por toda a
 cidade, e... e...
 
-885
+891
 00:52:58,181 --> 00:53:04,138
 OK, não diga nada, está bem? Oh, céus.
 
-886
+892
 00:53:04,554 --> 00:53:06,179
 Ela acabou de começar a agir assim.
 
-887
+893
 00:53:06,804 --> 00:53:10,304
 Desculpe-me, sou médico.
 Vamos sair de fininho.
 
-888
+894
 00:53:11,179 --> 00:53:13,328
 Laurel Ann? Laurel Ann, querida.
 Você está bem?
 
-889
+895
 00:53:13,428 --> 00:53:17,869
 Não, não. Nem respire e vá andando.
 Ela seguirá nossas vozes. Temos que...
 
-890
+896
 00:53:17,969 --> 00:53:19,203
 O que é aquilo?
 
-891
+897
 00:53:19,302 --> 00:53:20,302
 É a câmara de som.
 
-892
+898
 00:53:20,385 --> 00:53:22,617
 Salva-vidas! Vamos lá!
 
-893
+899
 00:53:22,717 --> 00:53:29,592
 Sr. Mendez sente falta de Mazzy... Não!
 Não! Sou Srta. Mazzy e preciso...
 
-894
+900
 00:53:31,426 --> 00:53:33,421
 Só precisamos ter um tempo de
 vantagem à frente dela.
 
-895
+901
 00:53:33,425 --> 00:53:34,546
 Não se preocupe.
 Ela não tem propósito...
 
-896
+902
 00:53:34,550 --> 00:53:36,507
 - O que há de errado com ela?
 - Depressa, depressa!
 
-897
+903
 00:53:39,924 --> 00:53:41,257
 Grant! Grant!
 
-898
+904
 00:53:42,549 --> 00:53:46,007
 - É o Dr. John Mendez.
 - Mendez?
 
-899
+905
 00:53:47,132 --> 00:53:48,907
 É dono do prédio que explodiu?
 
-900
+906
 00:53:49,007 --> 00:53:50,864
 Acredito que ele tem uma
 boa história pra contar.
 
-901
+907
 00:53:50,964 --> 00:53:52,439
 Doutor, gostaria de sentar-se?
 
-902
+908
 00:53:52,463 --> 00:53:53,689
 - Você diz, no rádio?
 - É.
 
-903
+909
 00:53:53,713 --> 00:53:55,881
 Ah, sim. Tenho uma história
 que quero contar.
 
-904
+910
 00:53:57,131 --> 00:54:01,213
 Não, gente. Espere! Não estou mais sumida.
 Não sinto mais falta do Sr. Mazzy...
 
-905
+911
 00:54:01,213 --> 00:54:02,880
 Acho que será um pouco
 mais interessante...
 
-906
+912
 00:54:02,904 --> 00:54:04,672
 do que foi com Nigel Healing.
 Não é, Grant?
 
-907
+913
 00:54:05,546 --> 00:54:07,778
 - O que está havendo?
 - Seu amigo está doente.
 
-908
+914
 00:54:07,878 --> 00:54:09,378
 Tenho visto muito disso,
 ultimamente.
 
-909
+915
 00:54:09,378 --> 00:54:12,045
 Ela não sabe ainda,
 mas... está nos caçando.
 
-910
+916
 00:54:12,545 --> 00:54:16,044
 Não sinto falta do Sr. Mazzy.
 Não estou mais sumida. Sydney!
 
-911
+917
 00:54:25,709 --> 00:54:27,144
 - Ela não parece...
 - Ei, por favor!
 
-912
+918
 00:54:27,168 --> 00:54:28,935
 Não podemos largá-la lá fora.
 Quero falar com ela. Grant,
 
-913
+919
 00:54:28,959 --> 00:54:29,958
 - ponha o som lá fora.
 - Não, não, não!
 
-914
+920
 00:54:29,958 --> 00:54:32,025
 Vamos deixar o som
 isolado aqui conosco.
 
-915
+921
 00:54:32,125 --> 00:54:35,166
 Ela pode perder nosso rastro
 se não conseguir nos ouvir.
 
-916
+922
 00:54:46,040 --> 00:54:48,106
-Você está ouvindo a 'O Farol'.
+Você está ouvindo ao Farol.
 
-917
+923
 00:54:48,206 --> 00:54:53,747
 Estamos segurando as pontas aqui, hoje.
 E não teremos papas na língua, amigos.
 
-918
+924
 00:54:53,997 --> 00:54:58,663
 Porém, estamos restritos, hoje.
 Estamos cansados e com medo.
 
-919
+925
 00:54:59,329 --> 00:55:02,812
 Mas temos ao vivo conosco
 o Dr. John Mendez.
 
-920
+926
 00:55:02,912 --> 00:55:04,604
 Talvez o conheça,
 
-921
+927
 00:55:04,704 --> 00:55:08,603
 ou se lembre a narrativa
 vívida de nosso Ken Loney...
 
-922
+928
 00:55:08,703 --> 00:55:14,785
 do episódio violento quando a
 multidão destruiu seu ofício.
 
-923
+929
 00:55:15,119 --> 00:55:17,937
 Pois bem, Dr. Mendez,
 estamos nos apoiando em você.
 
-924
+930
 00:55:18,037 --> 00:55:22,851
 Você teve uma experiência específica
 com esses... com esses eventos.
 
-925
+931
 00:55:22,951 --> 00:55:26,534
 Apreciaremos quaisquer explicações
 que puder nos fornecer...
 
-926
+932
 00:55:30,074 --> 00:55:32,433
 Laurel Ann, não faça isso!
 Pare!
 
-927
+933
 00:55:32,533 --> 00:55:35,867
 Ah. Está sedenta por vozes.
 Isso se tornará violento.
 
-928
+934
 00:55:39,782 --> 00:55:46,264
 Devo dizer com tristeza, muita tristeza,
 que nossa 'Heroína em Regresso',
 
-929
+935
 00:55:46,364 --> 00:55:48,514
 Laurel Ann Drummond,
 
-930
+936
 00:55:48,614 --> 00:55:54,155
 está sofrendo, neste momento, de algum
 tipo de... convulsões perigosas.
 
-931
+937
 00:55:54,863 --> 00:55:57,154
 Eu já vi isso,
 o que sua amiga está passando.
 
-932
+938
 00:55:59,113 --> 00:56:00,780
 Certo... posso? OK.
 
-933
+939
 00:56:01,362 --> 00:56:04,945
 Vi elementos disso.
 Ela não possui uma vítima, ainda...
 
-934
+940
 00:56:05,070 --> 00:56:09,427
 Então não tenho certeza de como isso
 acabará... digo... uma vítima se suicida.
 
-935
+941
 00:56:09,527 --> 00:56:12,094
 Mas... a vítima precisa de uma vítima
 na qual se suicidar.
 
-936
+942
 00:56:12,193 --> 00:56:14,094
 Eu sei que isso é um abalo
 terrível a vocês,
 
-937
+943
 00:56:14,193 --> 00:56:17,235
 e sinto por ser o mensageiro de
 notícias tão perturbadoras, mas...
 
-938
+944
 00:56:17,760 --> 00:56:19,244
 - Tenho visto esse comportamento violento...
 - Sydney.
 
-939
+945
 00:56:19,268 --> 00:56:20,767
 em meu consultório por toda a manhã.
 
-940
+946
 00:56:20,767 --> 00:56:22,084
 É... Certo, te ponho ao vivo.
 
-941
+947
 00:56:22,184 --> 00:56:25,283
 - Estou com o Ken.
 - OK. Obrigado, Dr. Mendez.
 
-942
+948
 00:56:25,283 --> 00:56:26,433
 Vamos ao nosso...
 
-943
+949
 00:56:26,433 --> 00:56:31,975
 repórter, Ken Loney, ao vivo em campo.
 Está em um silo próximo a Pontypool.
 
-944
+950
 00:56:32,241 --> 00:56:33,266
 Está aí, Ken?
 
-945
+951
 00:56:33,266 --> 00:56:37,957
 <i>Estou aqui... Ken Loney, reportando
 de dentro do silo de cereais.</i>
 
-946
+952
 00:56:37,957 --> 00:56:40,524
 Estávamos muito preocupados
 com você, Ken.
 
-947
+953
 00:56:40,724 --> 00:56:46,347
 <i>Acho que estou bem, mas... a pessoa
 que estava aqui comigo - ele morreu.</i>
 
-948
+954
 00:56:47,948 --> 00:56:49,888
 Você esteve aí todo esse tempo?
 
-949
+955
 00:56:49,988 --> 00:56:51,305
 <i>Sim, eu... não me mexi.</i>
 
-950
+956
 00:56:51,404 --> 00:56:55,638
 <i>mas... pode-se ouvir... pessoas,
 às vezes, passando do lado de fora.</i>
 
-951
+957
 00:56:55,738 --> 00:56:57,963
 Pode ouvir o que dizem?
 Estão dizendo alguma coisa?
 
-952
+958
 00:56:57,987 --> 00:57:02,385
 <i>Sim, ouvi. Pode-se ouvi-los. Um grupo
 passou há aproximadamente uma hora...</i>
 
-953
+959
 00:57:02,385 --> 00:57:05,345
 <i>e estavam falando sobre... "U-boots".</i>
 
-954
+960
 00:57:05,611 --> 00:57:09,011
 <i>Bem, não estavam falando, na verdade...
 Estavam meio que... cantando...</i>
 
-955
+961
 00:57:09,011 --> 00:57:11,910
 <i>Algo sobre "cuidado com U-boots".</i>
 
-956
+962
 00:57:11,910 --> 00:57:14,952
 <i>"Cuidado com U-boots".
 "Cuidado com U-boots".</i>
 
-957
+963
 00:57:16,918 --> 00:57:18,443
 Estavam todos dizendo isso, Ken?
 
-958
+964
 00:57:18,542 --> 00:57:21,483
 <i>É, sim, todos eles...
 é símbolo do distúrbio.</i>
 
-959
+965
 00:57:21,483 --> 00:57:24,259
 Um 'símbolo' do distúrbio?
 Quer dizer... um 'sintoma'?
 
-960
+966
 00:57:24,358 --> 00:57:29,982
 <i>É um simples... ele...
 Eu tenho um problema.</i>
 
-961
+967
 00:57:30,133 --> 00:57:32,991
 O que está acontecendo aí, Ken?
 Precisa ir a algum lugar mais seguro?
 
-962
+968
 00:57:33,191 --> 00:57:35,649
 <i>Não, não... não é isso...
 Eu... eu...</i>
 
-963
+969
 00:57:36,066 --> 00:57:37,174
 O que está havendo, Ken?
 
-964
+970
 00:57:37,274 --> 00:57:40,897
 <i>Vai... vai soar estranho...
 Não consigo parar de pensar.</i>
 
-965
+971
 00:57:42,531 --> 00:57:44,489
 <i>Você tem uma amostra?</i>
 
-966
+972
 00:57:44,864 --> 00:57:49,222
 Disse 'amostra'?
 Uma... uma amostra de quê?
 
-967
+973
 00:57:49,722 --> 00:57:53,763
 <i>Só... uma amostra...
 uma amostra simples, acho...</i>
 
-968
+974
 00:57:55,978 --> 00:58:01,103
 <i>Ouve o que digo? Preciso...
 Não consigo parar... amostra...</i>
 
-969
+975
 00:58:01,953 --> 00:58:03,562
 <i>É tanta 'amostra'...</i>
 
-970
+976
 00:58:03,662 --> 00:58:07,477
 <i>amostra... do que estou tentando...
 amostra do que estou tentando dizer...</i>
 
-971
+977
 00:58:07,477 --> 00:58:10,810
 - Apenas tente se acalmar, Ken.
 - <i>Não posso, o que tento dizer...</i>
 
-972
+978
 00:58:12,160 --> 00:58:14,393
 - <i>Grant, Grant...</i>
 - Ken...
 
-973
+979
 00:58:14,492 --> 00:58:17,492
 - Ken?
 - <i>Vou só tentar... tentar...</i>
 
-974
+980
 00:58:18,935 --> 00:58:21,251
 - Não consegue pensar?
 - <i>Não posso, não posso...</i>
 
-975
+981
 00:58:21,350 --> 00:58:23,000
 Vamos focar em perguntas simples,
 simples!
 
-976
+982
 00:58:23,100 --> 00:58:24,917
 <i>Perguntas simples, simples...</i>
 
-977
+983
 00:58:25,017 --> 00:58:26,683
 <i>simples... simples...</i>
 
-978
+984
 00:58:26,999 --> 00:58:29,440
 É isso. Ele se foi.
 É isso que ele é, agora...
 
-979
+985
 00:58:29,540 --> 00:58:31,190
 Um simples sinal de rádio.
 
-980
+986
 00:58:31,290 --> 00:58:32,290
 Tentando sintonizar.
 
-981
+987
 00:58:32,373 --> 00:58:39,082
 <i>Simples, simples, simples...
 Simples, simples, simples...</i>
 
-982
+988
 00:58:39,431 --> 00:58:43,831
 Creio que seja hora, Grant, de nos
 despedirmos de nosso colega no Sunshine.
 
-983
+989
 00:58:43,831 --> 00:58:46,081
 <i>Simples, simples, simples...</i>
 
-984
+990
 00:58:46,371 --> 00:58:50,704
 Está certo. Adeus, Ken.
 Um adeus de todos nós,
 
-985
+991
 00:58:51,879 --> 00:58:57,879
 todos que estão ouvindo.
 Torço para que me ouça, Ken. Adeus.
 
-986
+992
 00:59:03,761 --> 00:59:08,592
 Ele se foi. Bem, quero dizer -
 se foi... para algum lugar.
 
-987
+993
 00:59:11,560 --> 00:59:13,518
 Sinto muitíssimo, Sydney.
 
-988
+994
 00:59:14,302 --> 00:59:20,550
 Ken era... era um... um grande
 amigo seu, não era?
 
-989
+995
 00:59:21,176 --> 00:59:23,799
 Não, ele...
 não era um amigo...
 
-990
+996
 00:59:24,816 --> 00:59:26,758
 Ken Loney era um pedófilo.
 
-991
+997
 00:59:26,858 --> 00:59:29,715
 Quero dizer, não de fato pedófilo...
 
-992
+998
 00:59:29,815 --> 00:59:33,232
 Só não deixávamos as crianças
 se aproximarem dele.
 
-993
+999
 00:59:33,332 --> 00:59:39,589
 É que... o conheço há 17 anos...
 
-994
+1000
 00:59:42,422 --> 00:59:45,754
 É... há muito, muito tempo.
 
-995
+1001
 00:59:52,922 --> 00:59:54,379
 Merda!
 
-996
+1002
 00:59:56,129 --> 00:59:59,377
 ... Esse não foi um bom obituário.
 
-997
+1003
 01:00:05,543 --> 01:00:06,919
 O que está acontecendo?
 
-998
+1004
 01:00:14,900 --> 01:00:16,375
 Ah. Senhor.
 
-999
+1005
 01:00:16,600 --> 01:00:21,850
 Pessoal,
 ainda estamos aqui e, ah...
 
-1000
+1006
 01:00:22,325 --> 01:00:25,024
 a nobre Laurel Ann
 juntou-se a nós, novamente.
 
-1001
+1007
 01:00:25,124 --> 01:00:28,524
 E... uh... está ainda pior.
 
-1002
+1008
 01:00:28,724 --> 01:00:31,040
 Parece... que ela...
 esteve tentando...
 
-1003
+1009
 01:00:31,040 --> 01:00:33,481
 - comer alguma coisa.
 - Pare.
 
-1004
+1010
 01:00:33,481 --> 01:00:35,273
 Certeza que não consegue nos ouvir?
 
-1005
+1011
 01:00:35,623 --> 01:00:37,830
 Não. Ela não consegue.
 
-1006
+1012
 01:00:40,313 --> 01:00:41,980
 ... Será que pode ler lábios?
 
-1007
+1013
 01:00:43,038 --> 01:00:44,287
 Boa pergunta...
 
-1008
+1014
 01:00:47,063 --> 01:00:48,063
 Ler lábios...
 
-1009
+1015
 01:00:48,346 --> 01:00:49,388
 O quê?
 
-1010
+1016
 01:00:49,713 --> 01:00:55,128
 Não, digo... é algo muito interessante
 que acabou de dizer. Será que lêem lábios?
 
-1011
+1017
 01:00:55,511 --> 01:01:00,260
 Ah, é? Sei lá... interessante...
 como? Como?
 
-1012
+1018
 01:01:01,452 --> 01:01:03,519
 Devo ainda... lembrar a
 nossos ouvintes,
 
-1013
+1019
 01:01:03,519 --> 01:01:06,711
 - estamos falando com...
 - Nâo! Não pode ser...
 
-1014
+1020
 01:01:06,911 --> 01:01:09,701
 Não pode ser, é impossível!
 
-1015
+1021
 01:01:09,851 --> 01:01:11,684
 O <i>que</i> é impossível, doutor?
 
-1016
+1022
 01:01:11,809 --> 01:01:14,767
 É viral, isso é evidente.
 
-1017
+1023
 01:01:15,184 --> 01:01:17,124
 Mas, uh... não do sangue.
 
-1018
+1024
 01:01:17,324 --> 01:01:23,157
 Não do sangue, não no ar.
 Nem dentro ou fora de nossos corpos.
 
-1019
+1025
 01:01:24,783 --> 01:01:26,365
 Está aqui!
 
-1020
+1026
 01:01:28,866 --> 01:01:30,074
 Onde?
 
-1021
+1027
 01:01:34,364 --> 01:01:36,196
 Está nas palavras.
 
-1022
+1028
 01:01:37,488 --> 01:01:38,721
 Não toda palavra...
 
-1023
+1029
 01:01:38,721 --> 01:01:40,371
 Ou em qualquer falar...
 
-1024
+1030
 01:01:40,371 --> 01:01:41,996
 Em alguns.
 
-1025
+1031
 01:01:43,031 --> 01:01:46,071
 Algumas palavras estão infectadas.
 
-1026
+1032
 01:01:47,437 --> 01:01:50,603
 E se espalha quando a palavra
 contaminada é falada.
 
-1027
+1033
 01:01:52,753 --> 01:01:56,486
 Estamos presenciando a emergência de
 uma nova manifestação de vida,
 
-1028
+1034
 01:01:56,686 --> 01:01:59,669
 e nossa língua é seu hospedeiro.
 
-1029
+1035
 01:01:59,669 --> 01:02:03,943
 Pode ter... sido gerado espontaneamente
 de alguma... percepção.
 
-1030
+1036
 01:02:03,943 --> 01:02:06,467
 Se conseguiu instalar-se na linguagem,
 
-1031
+1037
 01:02:06,567 --> 01:02:10,134
 poderia infiltrar-se na própria realidade,
 alterando tudo!
 
-1032
+1038
 01:02:10,234 --> 01:02:15,132
 Poderia ser infinita...
 Poderia ser... uma doença suprema!
 
-1033
+1039
 01:02:15,332 --> 01:02:18,525
 Certo, Dr. Mendez.
 Não acredito nem em OVNIs,
 
-1034
+1040
 01:02:18,625 --> 01:02:22,399
 então preciso interrompê-lo,
 nessa coisa de 'doença suprema'.
 
-1035
+1041
 01:02:22,399 --> 01:02:24,966
 É, mesmo? Bom, é bem sensato,
 
-1036
+1042
 01:02:25,165 --> 01:02:26,649
 porque OVNIs não existem,
 
-1037
+1043
 01:02:26,949 --> 01:02:30,681
 mas garanto, há um monstro à solta
 
-1038
+1044
 01:02:30,681 --> 01:02:33,580
 e está saltando através de nossa língua,
 
-1039
+1045
 01:02:33,580 --> 01:02:36,497
 freneticamente tentando manter
 seu hospedeiro vivo.
 
-1040
+1046
 01:02:41,104 --> 01:02:44,754
 - Seria esta transmissão...
 - Não, não, não, não, não, não...
 
-1041
+1047
 01:02:44,754 --> 01:02:47,528
 Se... a doença nos infecta,
 
-1042
+1048
 01:02:47,728 --> 01:02:51,395
 não o faz pelo contato
 com o tímpano - não.
 
-1043
+1049
 01:02:52,036 --> 01:02:58,144
 Nos infecta quando escutamos a palavra
 e a entendemos. Entendeu?
 
-1044
+1050
 01:02:58,444 --> 01:03:04,759
 É quando a palavra é entendida
 que o vírus se apossa,
 
-1045
+1051
 01:03:04,959 --> 01:03:09,458
 e... se copia em nosso entendimento.
 
-1046
+1052
 01:03:17,066 --> 01:03:20,299
 Bem... deveríamos estar...
 falando sobre isso?
 
-1047
+1053
 01:03:20,299 --> 01:03:22,781
 Do que estamos falando?
 
-1048
+1054
 01:03:22,881 --> 01:03:26,365
 Será que deveríamos...
 falar, sequer?
 
-1049
+1055
 01:03:26,665 --> 01:03:33,731
 Bem, por garantia - não, provavelmente não.
 Conversar é arriscado.
 
-1050
+1056
 01:03:34,031 --> 01:03:40,446
 E, bem... talk radio é...
 alto risco, então... deveríamos parar.
 
-1051
+1057
 01:03:42,895 --> 01:03:48,421
 Mas precisamos... contar às pessoas.
 
-1052
+1058
 01:03:48,821 --> 01:03:52,344
 As pessoas precisam saber.
 Isso tem que... ser divulgado.
 
-1053
+1059
 01:03:52,344 --> 01:03:54,494
 Bem, é sua decisão, Sr. Mazzy.
 
-1054
+1060
 01:03:54,694 --> 01:03:56,927
 Vamos só torcer para que
 o que está espalhando por aí...
 
-1055
+1061
 01:03:56,927 --> 01:03:59,176
 não vá destruir seu mundo.
 
-1056
+1062
 01:04:23,872 --> 01:04:25,789
 O mundo inteiro pode ouvi-lo respirar.
 
-1057
+1063
 01:04:27,332 --> 01:04:29,231
 Tudo bem, está respirando.
 
-1058
+1064
 01:04:29,331 --> 01:04:31,289
 É sua maior matéria!
 
-1059
+1065
 01:04:31,805 --> 01:04:33,547
 Não pode te arrancar o fôlego
 se estiver respirando.
 
-1060
+1066
 01:04:33,571 --> 01:04:35,714
 - Respirar, respirar, respirar...
 - música ambiente, Grant.
 
-1061
+1067
 01:04:35,738 --> 01:04:38,029
 música ambiente, chave 14.
 
-1062
+1068
 01:04:39,661 --> 01:04:43,163
 Ainda estamos falando.
 Que tal oficializarmos o silêncio?
 
-1063
+1069
 01:04:53,910 --> 01:04:56,910
 - Alô?
 - Aí vem ela!
 
-1064
+1070
 01:04:57,535 --> 01:05:00,242
 Oi, querida!
 
-1065
+1071
 01:05:03,159 --> 01:05:06,783
 Oi, lindinha... você e Brandon
 estão bem?
 
-1066
+1072
 01:05:08,783 --> 01:05:12,325
 Também sinto muito sua falta, amor.
 Vejo você amanhã, né?
 
-1067
+1073
 01:05:16,906 --> 01:05:19,739
 Isso é ótimo, querida.
 
-1068
+1074
 01:05:25,239 --> 01:05:29,488
 O papai está por aí?
 Posso falar com ele, bem rapidinho?
 
-1069
+1075
 01:05:29,780 --> 01:05:33,387
 Amor, não esqueci de ligar pra você.
 Só não consegui linha, querida.
 
-1070
+1076
 01:05:33,387 --> 01:05:35,047
 Não deveria falar com
 ninguém que te ligue!
 
-1071
+1077
 01:05:35,071 --> 01:05:36,596
 E sem 'queridas', por favor.
 
-1072
+1078
 01:05:36,696 --> 01:05:39,154
 Deveria respirar mais.
 Respirar... respirar...
 
-1073
+1079
 01:05:40,196 --> 01:05:42,653
 Só falando em voz alta...
 
-1074
+1080
 01:05:42,945 --> 01:05:44,986
 Pode, por favor, chamar o papai?
 
-1075
+1081
 01:05:49,195 --> 01:05:52,485
 Não é seu aniversário, Lulu.
 É Dia dos Namorados, amor.
 
-1076
+1082
 01:05:53,319 --> 01:05:55,044
 Agora não é uma boa hora,
 de verdade, amor.
 
-1077
+1083
 01:05:55,068 --> 01:05:56,901
 Pode só chamar o papai?
 
-1078
+1084
 01:06:01,567 --> 01:06:08,841
 Feliz Dia dos Namorados, Lulu!
 Feliz Dia dos Namorados, Lulu!
 
-1079
+1085
 01:06:08,941 --> 01:06:13,482
 Porque eu te amo...
 
-1080
+1086
 01:06:18,107 --> 01:06:22,106
 Lulu? Lulu? Alô?
 
-1081
+1087
 01:06:23,772 --> 01:06:27,896
 Alô?
 Oi, querida?
 
-1082
+1088
 01:06:28,896 --> 01:06:30,272
 Droga!
 
-1083
+1089
 01:06:34,188 --> 01:06:35,938
 As linhas estão mudas.
 
-1084
+1090
 01:06:39,145 --> 01:06:43,270
 Algo esquisito está acontecendo com ela,
 ainda não tinha visto nada assim.
 
-1085
+1091
 01:07:08,015 --> 01:07:10,974
 Esqueci de dá-la um cartão
 de Dia dos Namorados.
 
-1086
+1092
 01:07:12,141 --> 01:07:16,098
 Grant, obrigada pelo cartão.
 
-1087
+1093
 01:07:17,307 --> 01:07:20,431
 Não falei nada, me desculpe.
 Foi muito gentil.
 
-1088
+1094
 01:07:35,179 --> 01:07:38,370
 Então é <i>isso</i> que acontece quando a
 vítima não encontra uma vítima!
 
-1089
+1095
 01:07:38,469 --> 01:07:42,718
 Esse é o destino do qual tentam fugir.
 Meu Deus, foi impressionante.
 
-1090
+1096
 01:07:43,011 --> 01:07:44,577
 Ah, e... e... notavelmente,
 
-1091
+1097
 01:07:44,677 --> 01:07:47,428
 definitivamente beira o incompreensível!
 Eu... sinto... sinto muito.
 
-1092
+1098
 01:07:48,428 --> 01:07:50,302
 Respirar... respirar...
 
-1093
+1099
 01:07:51,052 --> 01:07:52,760
 Ah... Aí vem eles!
 
-1094
+1100
 01:07:56,151 --> 01:07:59,111
 Deve haver centenas deles pressionando
 contra as paredes deste prédio.
 
-1095
+1101
 01:08:00,291 --> 01:08:01,890
 O que precisamos é
 de um lança-chamas.
 
-1096
+1102
 01:08:02,424 --> 01:08:03,879
 Achei que estava proibido conversar.
 
-1097
+1103
 01:08:03,883 --> 01:08:07,550
 Sim, sim, sim, sim.
 Está certo, está certo.
 
-1098
+1104
 01:09:00,051 --> 01:09:02,055
 <i>O que fazemos, agora?</i>
 
-1099
+1105
 01:09:15,231 --> 01:09:18,228
 <i>Se ligarmos nossas vozes,
 será que seguem?</i>
 
-1100
+1106
 01:09:27,229 --> 01:09:29,257
 <i>Alto-falante lá de fora?</i>
 
-1101
+1107
 01:09:42,534 --> 01:09:44,841
 <i>A mensagem viajará</i>
 
-1102
+1108
 01:09:49,567 --> 01:09:51,105
 <i>O que falamos?</i>
 
-1103
+1109
 01:09:51,325 --> 01:09:53,313
 <i>S.O.S.</i>
 
-1104
+1110
 01:09:57,838 --> 01:09:59,217
 <i>Estamos aqui</i>
 
-1105
+1111
 01:10:05,940 --> 01:10:07,708
 <i>Sydney Briar está viva</i>
 
-1106
+1112
 01:10:52,942 --> 01:10:56,034
 Sydney Briar está viva...
 
-1107
+1113
 01:10:59,524 --> 01:11:02,574
 Sydney Briar está viva...
 
-1108
+1114
 01:11:05,149 --> 01:11:08,149
 Sydney Briar está viva...
 
-1109
+1115
 01:11:09,314 --> 01:11:12,481
 Sydney Briar está viva...
 
-1110
+1116
 01:11:15,130 --> 01:11:16,147
 Joguei em <i>loop</i>.
 
-1111
+1117
 01:11:16,147 --> 01:11:19,188
 <i>Sydney Briar está viva...</i>
 
-1112
+1118
 01:11:19,354 --> 01:11:22,254
 <i>Sydney Briar está viva...</i>
 
-1113
+1119
 01:11:22,354 --> 01:11:24,352
 <i>Sydney Briar está viva...</i>
 
-1114
+1120
 01:11:25,937 --> 01:11:27,935
 <i>Sydney Briar está viva...</i>
 
-1115
+1121
 01:11:28,728 --> 01:11:30,726
 <i>Sydney Briar está viva...</i>
 
-1116
+1122
 01:11:32,146 --> 01:11:35,710
 - <i>Sydney Briar está viva...</i>
 - Podemos respirar novamente...
 
-1117
+1123
 01:11:35,810 --> 01:11:37,808
 <i>Sydney Briar está viva...</i>
 
-1118
+1124
 01:11:38,643 --> 01:11:40,641
 <i>Sydney Briar está viva...</i>
 
-1119
+1125
 01:11:41,726 --> 01:11:43,724
 <i>Sydney Briar está viva...</i>
 
-1120
+1126
 01:11:44,935 --> 01:11:47,834
 - <i>Sydney Briar está viva...</i>
 - respirar... respirar...
 
-1121
+1127
 01:11:47,934 --> 01:11:50,917
 - <i>Sydney Briar está viva...</i>
 - respirar... respirar...
 
-1122
+1128
 01:11:51,017 --> 01:11:54,374
 - <i>Sydney Briar está viva...</i>
 - respirar... respirar...
 
-1123
+1129
 01:11:54,474 --> 01:11:57,581
 - <i>Sydney Briar está viva...</i>
 - respirar... respirar...
 
-1124
+1130
 01:11:57,681 --> 01:11:59,679
 <i>Sydney Briar está viva...</i>
 
-1125
+1131
 01:12:00,975 --> 01:12:02,973
 <i>Sydney Briar está viva...</i>
 
-1126
+1132
 01:12:04,390 --> 01:12:06,465
 <i>Sydney Briar está viva...</i>
 
-1127
+1133
 01:12:07,264 --> 01:12:09,290
 <i>Sydney Briar está viva...</i>
 
-1128
+1134
 01:12:10,389 --> 01:12:12,387
 <i>Sydney Briar está viva...</i>
 
-1129
+1135
 01:12:13,972 --> 01:12:15,970
 <i>Sydney Briar está viva...</i>
 
-1130
+1136
 01:12:17,263 --> 01:12:19,261
 <i>Sydney Briar está viva...</i>
 
-1131
+1137
 01:12:20,471 --> 01:12:22,469
 <i>Sydney Briar está viva...</i>
 
-1132
+1138
 01:12:23,387 --> 01:12:25,385
 <i>Sydney Briar está viva...</i>
 
-1133
+1139
 01:12:27,553 --> 01:12:30,427
 - <i>Sydney Briar está viva...</i>
 - É só a língua inglesa que está infectada!
 
-1134
+1140
 01:12:30,480 --> 01:12:31,690
 - Er... respirar... respirar...
 
-1135
+1141
 01:12:49,883 --> 01:12:52,257
 <i>Fala francês?</i>
 
-1136
+1142
 01:12:52,841 --> 01:12:55,173
 <i>Um pouquinho?</i>
 
-1137
+1143
 01:12:58,424 --> 01:13:00,965
 <i>Falemos em francês.</i>
 
-1138
+1144
 01:13:03,882 --> 01:13:06,421
 <i>Vamos.</i>
 
-1139
+1145
 01:13:11,796 --> 01:13:15,047
 <i>Em francês! Em francês!
 Fique aqui.</i>
 
-1140
+1146
 01:13:15,296 --> 01:13:17,713
 <i>Até mais.</i>
 
-1141
+1147
 01:13:55,082 --> 01:13:56,707
 <i>Pra onde, agora?</i>
 
-1142
+1148
 01:13:58,498 --> 01:14:00,373
 <i>À cozinha.</i>
 
-1143
+1149
 01:14:15,621 --> 01:14:17,312
 Grant, corra... Corra, agora!
 
-1144
+1150
 01:14:17,412 --> 01:14:18,954
 <i>Grant, corra... Corra, agora!</i>
 
-1145
+1151
 01:14:28,870 --> 01:14:30,020
 Vem me pegar!
 
-1146
+1152
 01:14:30,119 --> 01:14:32,619
 <i>Vem me pegar...
 vem me pegar...</i>
 
-1147
+1153
 01:15:09,654 --> 01:15:12,071
 <i>Ele continua...</i>
 
-1148
+1154
 01:15:22,487 --> 01:15:24,653
 <i>Será... que ele é perigoso?</i>
 
-1149
+1155
 01:15:26,528 --> 01:15:28,069
 <i>Sim.</i>
 
-1150
+1156
 01:15:28,652 --> 01:15:31,902
 <i>Vai matar o médico?</i>
 
-1151
+1157
 01:15:34,025 --> 01:15:35,484
 <i>Não...</i>
 
-1152
+1158
 01:15:36,817 --> 01:15:39,634
 <i>Você matou a menina...</i>
 
-1153
+1159
 01:15:39,734 --> 01:15:43,234
 <i>você mata o médico.</i>
 
-1154
+1160
 01:15:43,983 --> 01:15:47,633
 <i>... Eu não matei a menina.</i>
 
-1155
+1161
 01:15:47,733 --> 01:15:48,633
 <i>Matou.</i>
 
-1156
+1162
 01:15:48,733 --> 01:15:50,048
 - <i>Não matei.</i>
 - <i>Matou!</i>
 
-1157
+1163
 01:15:50,148 --> 01:15:51,607
 - <i>Não.</i>
 - <i>Matou!</i>
 
-1158
+1164
 01:15:51,732 --> 01:15:54,548
 <i>Você matou a menina.</i>
 
-1159
+1165
 01:15:54,648 --> 01:15:57,064
 <i>Não eu!</i>
 
-1160
+1166
 01:15:57,481 --> 01:15:59,147
 <i>OK.</i>
 
-1161
+1167
 01:16:00,106 --> 01:16:02,231
 <i>Eu matei a menina.</i>
 
-1162
+1168
 01:16:02,897 --> 01:16:04,646
 <i>Então...</i>
 
-1163
+1169
 01:16:04,897 --> 01:16:08,046
 <i>Você mata o médico... ?</i>
 
-1164
+1170
 01:16:08,146 --> 01:16:11,337
 <i>Eu? Por favor, não!</i> Eu...
 
-1165
+1171
 01:16:11,437 --> 01:16:13,770
 Eu não vou matar o médico. Não.
 
-1166
+1172
 01:16:17,187 --> 01:16:18,394
 Está bem.
 
-1167
+1173
 01:16:24,186 --> 01:16:29,476
 <i>Se o médico nos atacar...
 eu o mato.</i>
 
-1168
+1174
 01:17:05,347 --> 01:17:06,597
 Aí vem ele!
 
-1169
+1175
 01:17:08,762 --> 01:17:10,804
 <i>A porta, a porta!</i>
 
-1170
+1176
 01:17:26,883 --> 01:17:29,181
 <i>Sydney Briar está viva!</i>
 
-1171
+1177
 01:17:31,344 --> 01:17:32,551
 <i>Adeus!</i>
 
-1172
+1178
 01:17:47,054 --> 01:17:49,039
 <i>Sydney Briar está viva!</i>
 
-1173
+1179
 01:18:04,128 --> 01:18:06,170
 Está nos salvando...
 
-1174
+1180
 01:18:29,959 --> 01:18:31,842
 <i>Sydney Briar está viva!</i>
 
-1175
+1181
 01:19:33,200 --> 01:19:35,658
 <i>Meu nome é Sydney Briar
 e hoje matei uma menina</i>
 
-1176
+1182
 01:19:41,907 --> 01:19:44,282
 <i>Sinto muitíssimo</i>
 
-1177
+1183
 01:20:13,361 --> 01:20:15,403
 Por que não desembucha?
 
-1178
+1184
 01:20:17,361 --> 01:20:18,985
 Francês!
 
-1179
+1185
 01:20:22,734 --> 01:20:24,293
 <i>Me desculpe...</i>
 
-1180
+1186
 01:20:27,568 --> 01:20:29,150
 Continue.
 
-1181
+1187
 01:20:29,858 --> 01:20:31,567
 <i>Não fale</i>
 
-1182
+1188
 01:20:38,399 --> 01:20:40,242
 <i>Minha cabeça dói...</i>
 
-1183
+1189
 01:20:43,524 --> 01:20:47,616
 Pelo amor de Deus, desista, Grant.
 
-1184
+1190
 01:20:49,480 --> 01:20:55,123
 Não há nenhum plano de fuga secreto
 escondido nas palavras de Nigel.
 
-1185
+1191
 01:20:55,647 --> 01:20:56,747
 <i>Pare!</i>
 
-1186
+1192
 01:21:09,978 --> 01:21:11,312
 Pare com isso.
 
-1187
+1193
 01:21:24,560 --> 01:21:25,667
 Syd...
 
-1188
+1194
 01:21:26,184 --> 01:21:30,766
 Não estamos conversando. Estou bêbada.
 Foi assim que minha última relação acabou.
 
-1189
+1195
 01:21:31,641 --> 01:21:33,773
 Como paramos de entender isto aqui?
 
-1190
+1196
 01:21:37,099 --> 01:21:38,316
 Oh, Deus!
 
-1191
+1197
 01:21:39,516 --> 01:21:41,764
 Vai me devorar em breve, não vai?
 
-1192
+1198
 01:21:44,347 --> 01:21:47,815
 Está tudo bem. Prefiro que me mate.
 
-1193
+1199
 01:21:49,639 --> 01:21:51,206
 Não quero ter que te matar.
 
-1194
+1200
 01:21:51,306 --> 01:21:56,288
 Uma coisa que o Dr. Mendez disse: disse
 que entender uma palavra copia o vírus.
 
-1195
+1201
 01:21:56,388 --> 01:21:59,262
 Então como você... como você não
 entenderia uma palavra?
 
-1196
+1202
 01:21:59,761 --> 01:22:02,887
 Tá... está falando
 pra cacete, agora.
 
-1197
+1203
 01:22:03,969 --> 01:22:05,496
 Não entendo uma coisa...
 
-1198
+1204
 01:22:05,595 --> 01:22:08,142
 Como, algo que entendemos
 automaticamente...
 
-1199
+1205
 01:22:08,167 --> 01:22:10,006
 Como pegamos, sabe,
 uma palavra...
 
-1200
+1206
 01:22:10,011 --> 01:22:12,728
 Como a tornamos 'estranha'?
 
-1201
+1207
 01:22:13,634 --> 01:22:20,009
 Cairão matando, em breve, se
 continuar matando suas regras, Grant.
 
-1202
+1208
 01:22:23,259 --> 01:22:27,425
 Não entendo o que a desinfecta.
 Entende? Eis a questão.
 
-1203
+1209
 01:22:28,466 --> 01:22:33,216
 Se a desinfecta... sem a distorcer...
 como? Como fazemos isso?
 
-1204
+1210
 01:22:34,257 --> 01:22:37,532
 Você mata a palavra...
 que está te matando.
 
-1205
+1211
 01:22:38,231 --> 01:22:41,807
 Ah! Você mata a palavra que está te
 matando. Muito bom! Você a repete!
 
-1206
+1212
 01:22:41,807 --> 01:22:44,040
 Sim, me lembro que, quando pequeno,
 costumava...
 
-1207
+1213
 01:22:44,040 --> 01:22:46,214
 Costumava repetir palavras,
 de novo e de novo...
 
-1208
+1214
 01:22:46,214 --> 01:22:48,880
 até que se tornassem...
 incompreensíveis.
 
-1209
+1215
 01:22:49,506 --> 01:22:51,772
 Acha que é por isso?
 O motivo de repetirem as coisas?
 
-1210
+1216
 01:22:51,796 --> 01:22:55,145
 Algum tipo de resposta
 do sistema imunológico?
 
-1211
+1217
 01:22:56,836 --> 01:22:58,620
 Precisa matar...
 
-1212
+1218
 01:23:00,712 --> 01:23:02,370
 toda a matança.
 
-1213
+1219
 01:23:02,370 --> 01:23:05,844
 É, mas não funciona, porque repetem
 as palavras e adoecem, mesmo assim.
 
-1214
+1220
 01:23:05,977 --> 01:23:09,444
 Então como as tornamos...
 irreconhecíveis?
 
-1215
+1221
 01:23:09,444 --> 01:23:11,935
 Como?
 E que palavra?
 
-1216
+1222
 01:23:14,834 --> 01:23:17,693
 "Matar"...
 
-1217
+1223
 01:23:17,793 --> 01:23:20,726
 Matar... matar... matar...
 
-1218
+1224
 01:23:21,925 --> 01:23:25,517
 Syd... você está bem?
 
-1219
+1225
 01:23:27,791 --> 01:23:32,856
 OK... Syd? Syd? Tudo bem!
 Olha, Sydney,
 
-1220
+1226
 01:23:32,956 --> 01:23:36,581
 Acho que pegou uma palavra infectada.
 Está infectada.
 
-1221
+1227
 01:23:36,998 --> 01:23:39,183
 Mas sabemos a palavra...
 Não diga nada. Não diga nada!
 
-1222
+1228
 01:23:39,207 --> 01:23:40,648
 Não, não, não. Pare!
 
-1223
+1229
 01:23:40,748 --> 01:23:42,872
 Pare! Sabemos a palavra!
 
-1224
+1230
 01:23:43,997 --> 01:23:46,939
 Certo: 'matar' não é 'matar'...
 Sydney, 'matar' não é 'matar'...
 
-1225
+1231
 01:23:47,039 --> 01:23:54,439
 'matar' não é 'matar'...
 'matar' não é 'matar'...
 
-1226
+1232
 01:23:54,538 --> 01:23:57,728
 Santo Deus. Eu não sei! Não sei...
 Não sei... OK! OK!
 
-1227
+1233
 01:23:57,728 --> 01:23:58,703
 Está bem...
 
-1228
+1234
 01:23:58,703 --> 01:24:01,811
 'Matar' é 'azul'! 'Matar' é 'maravilha'!
 'Matar' é... 'matar' é 'amor'!
 
-1229
+1235
 01:24:01,911 --> 01:24:04,352
 'Matar' é a... 'matar' é 'bebê'!
 'Matar' é o...
 
-1230
+1236
 01:24:04,451 --> 01:24:07,819
 'Matar' é 'Jardim de Manet'...
 'Matar' é... 'bela manhã'...
 
-1231
+1237
 01:24:07,819 --> 01:24:09,370
 'Matar' é tudo o que
 sempre quis...
 
-1232
+1238
 01:24:09,394 --> 01:24:11,118
 'Matar' é...
 'Matar' é 'beijar'!
 
-1233
+1239
 01:24:11,118 --> 01:24:12,243
 'Matar' é...
 
-1234
+1240
 01:24:14,660 --> 01:24:15,684
 'Matar' é...
 
-1235
+1241
 01:24:15,784 --> 01:24:22,750
 'Matar' é 'beijar'. 'Matar' é 'beijar'.
 'Matar' é 'beijar'! É isso?
 
-1236
+1242
 01:24:22,909 --> 01:24:28,073
 'Matar' é 'beijar'? 'Matar' é 'beijar'.
 'Matar' é 'beijar'. 'Matar' é 'beijar'.
 
-1237
+1243
 01:24:28,073 --> 01:24:32,523
 'Matar' é 'beijar'. 'Matar' é 'beijar'?
 'Matar' é 'beijar'.
 
-1238
+1244
 01:24:32,882 --> 01:24:33,883
 O que é 'matar'?
 
-1239
+1245
 01:24:35,448 --> 01:24:36,507
 "Beijar"...
 
-1240
+1246
 01:24:40,089 --> 01:24:42,255
 - Me mate.
 - O quê?
 
-1241
+1247
 01:24:43,321 --> 01:24:44,530
 Me mate...
 
-1242
+1248
 01:25:04,402 --> 01:25:07,361
 'Matar' é 'beijar'.
 Entendi.
 
-1243
+1249
 01:25:12,209 --> 01:25:13,252
 OK...
 
-1244
+1250
 01:25:15,217 --> 01:25:17,510
 OK. Me sinto melhor...
 
-1245
+1251
 01:25:18,592 --> 01:25:21,091
 - Me sinto melhor.
 - Eu também.
 
-1246
+1252
 01:25:23,616 --> 01:25:25,807
 O que acabou de acontecer?
 Sério...
 
-1247
+1253
 01:25:25,907 --> 01:25:28,032
 Sério.
 O que acabou de acontecer?
 
-1248
+1254
 01:25:28,840 --> 01:25:29,765
 Nos beijamos.
 
-1249
+1255
 01:25:29,765 --> 01:25:32,639
 - Eu sei, eu sei...
 - Foi bom.
 
-1250
+1256
 01:25:33,782 --> 01:25:35,831
 O que aconteceu conosco, eu sei...
 
-1251
+1257
 01:25:36,256 --> 01:25:42,130
 Sydney, eu acho...
 que algo incrível acabou de acontecer.
 
-1252
+1258
 01:25:42,680 --> 01:25:49,662
 Acho que acabei de te curar.
 Sydney... isso é incrível. É fantástico!
 
-1253
+1259
 01:25:49,762 --> 01:25:50,762
 Onde está indo?
 
-1254
+1260
 01:25:50,804 --> 01:25:53,828
 Precisamos contar às pessoas.
 Encontramos uma saída para isso!
 
-1255
+1261
 01:25:53,928 --> 01:25:58,520
 Droga! Grant, espera, me escuta... Grant,
 o que faremos? O que vamos fazer aqui?
 
-1256
+1262
 01:25:58,620 --> 01:26:00,655
 Vamos lá, menina! Um último espetáculo!
 
-1257
+1263
 01:26:00,694 --> 01:26:04,027
 Um último... o quê? Grant...
 Grant... me escuta!
 
-1258
+1264
 01:26:04,769 --> 01:26:07,619
 Não deveríamos nem estar aqui fora...
 O que estamos fazendo aqui? Não é seguro.
 
-1259
+1265
 01:26:07,643 --> 01:26:11,918
 Syd, vamos salvar a porra do mundo.
 Agorinha. Como se sente?
 
-1260
+1266
 01:26:12,018 --> 01:26:14,077
 Você nem sabe o que fez...
 ou melhor, nem o que fez...
 
-1261
+1267
 01:26:14,101 --> 01:26:16,208
 nem como fez.
 Escute, escute, Grant! Pare!
 
-1262
+1268
 01:26:16,308 --> 01:26:17,658
 Escute, está muito precipitado!
 
-1263
+1269
 01:26:17,682 --> 01:26:21,292
 Estamos bem, OK? Estamos bem. Ficaremos
 seguros lá em cima, desde que não falemos.
 
-1264
+1270
 01:26:21,391 --> 01:26:24,457
 Precisamos ficar a salvo,
 o que Mendez disse. Vai com calma.
 
-1265
+1271
 01:26:24,557 --> 01:26:26,599
 Porra, Grant!
 Ou nos calamos, ou morremos!
 
-1266
+1272
 01:26:31,347 --> 01:26:35,247
 Gente já está morrendo, Syd,
 enquanto tocamos música ambiente.
 
-1267
+1273
 01:26:35,346 --> 01:26:39,347
 Queremos mesmo causar um genocídio
 tocando musiquinha de elevador?
 
-1268
+1274
 01:26:39,764 --> 01:26:43,205
 Não sei o que fiz lá em cima, Syd -
 mas preciso tentar!
 
-1269
+1275
 01:26:43,304 --> 01:26:47,263
 - Porque se eu não... o quê?
 - Tá bem, tá bem... disse que tudo bem.
 
-1270
+1276
 01:26:47,387 --> 01:26:49,970
 - Isso!
 - Ah, está me matando, Mazzy.
 
-1271
+1277
 01:26:50,263 --> 01:26:52,345
 Agora vá, vá, vá. Vai!
 
-1272
+1278
 01:26:56,319 --> 01:26:59,069
 - Está aí? Tá aí?
 - Sim, sim. Tô aqui.
 
-1273
+1279
 01:26:59,069 --> 01:27:00,261
 Estou aqui. Tô aqui, Grant.
 
-1274
+1280
 01:27:00,261 --> 01:27:01,161
 - Alô?
 - Grant?
 
-1275
+1281
 01:27:01,161 --> 01:27:02,394
 Sim, sim. Tô aqui.
 
-1276
+1282
 01:27:02,594 --> 01:27:04,193
 Certo. Faremos o que pudermos.
 
-1277
+1283
 01:27:04,193 --> 01:27:05,903
 Bom, aquele francês disse,
 aquel... aquele francês disse...
 
-1278
+1284
 01:27:05,927 --> 01:27:09,576
 ele disse... termos afetivos
 e conversa de bebê, certo?
 
-1279
+1285
 01:27:09,642 --> 01:27:12,118
 E... temos a sua palavra, sabemos
 como limpá-la, certo?
 
-1280
+1286
 01:27:12,142 --> 01:27:13,949
 E sobre o que Laurel Ann estava resmungando?
 
-1281
+1287
 01:27:13,949 --> 01:27:16,810
 - Não sei, não me lembro.
 - Ah, bem... Ken Loney estava falando,
 
-1282
+1288
 01:27:16,883 --> 01:27:18,743
 ...'amostra'.
 Era isso - 'amostra'?
 
-1283
+1289
 01:27:18,842 --> 01:27:20,575
 Tá, precisamos de uma lista.
 Podemos fazer uma lista?
 
-1284
+1290
 01:27:20,575 --> 01:27:21,800
 Não há tempo para listas, Grant.
 
-1285
+1291
 01:27:21,824 --> 01:27:24,716
 Você só confundiria as pessoas.
 O que está pensando em fazer?
 
-1286
+1292
 01:27:24,740 --> 01:27:26,615
 OK, me põe no ar.
 Me põe no ar, vamos!
 
-1287
+1293
 01:27:27,773 --> 01:27:28,781
 Está no ar!
 
-1288
+1294
 01:27:29,931 --> 01:27:35,123
 Olá, Pontypool. Grant Mazzy falando,
 e hoje não teremos papas na língua.
 
-1289
+1295
 01:27:35,123 --> 01:27:39,414
 Por sinal, libertaremos nossa língua.
 
-1290
+1296
 01:27:39,580 --> 01:27:43,620
 Então aqui vamos nós, pessoal:
 'Matar' é 'beijar'.
 
-1291
+1297
 01:27:44,187 --> 01:27:46,504
 'Matar' é definitivamente 'beijar'.
 
-1292
+1298
 01:27:46,804 --> 01:27:51,736
 Agora 'amostra'...
 'Amostra' é 'grampo'
 
-1293
+1299
 01:27:51,736 --> 01:27:53,570
 - 'Querida'...
 - É muito específico, Grant...
 
-1294
+1300
 01:27:53,570 --> 01:27:56,428
 <i>Sydney Briar!
 Ainda está viva?</i>
 
-1295
+1301
 01:27:56,628 --> 01:27:59,127
 Escutem, gente.
 Tudo é alguma outra coisa.
 
-1296
+1302
 01:27:59,127 --> 01:28:00,312
 - Tá bem?
 - <i>Sydney Briar! Ainda está viva?</i>
 
-1297
+1303
 01:28:00,336 --> 01:28:03,693
 Se disser 'feliz', significa
 'triste'...
 
-1298
+1304
 01:28:03,892 --> 01:28:07,501
 'Feliz' significa... Não, é o oposto,
 não serve. Certo, não serve.
 
-1299
+1305
 01:28:07,501 --> 01:28:10,275
 'Feliz' é 'útil'...
 'feliz' é 'útil'.
 
-1300
+1306
 01:28:10,475 --> 01:28:14,017
 Embaralhem as coisas, gente,
 apenas embaralhem...
 
-1301
+1307
 01:28:15,542 --> 01:28:22,290
 Precisam parar de entender...
 Parem de entender o que dizem...
 
-1302
+1308
 01:28:22,565 --> 01:28:24,981
 Parem de entender
 e me escutem...
 
-1303
+1309
 01:28:25,289 --> 01:28:29,649
 'Amostra'... 'Amostra' é uma 'cor',
 'Amostra' é uma 'cor'...
 
-1304
+1310
 01:28:29,848 --> 01:28:31,724
 Não, Grant! Assim
 está fazendo sentido...
 
-1305
+1311
 01:28:31,724 --> 01:28:35,263
 Se os disser para 'não entender',
 sairá pela culatra.
 
-1306
+1312
 01:28:35,747 --> 01:28:37,313
 Certo, certo, aqui vamos nós...
 
-1307
+1313
 01:28:37,413 --> 01:28:43,287
 <i>Sydney Briar! Pare a transmissão!
 Pare a transmissão!</i>
 
-1308
+1314
 01:28:43,712 --> 01:28:47,003
 <i>O homem falando está doente!</i>
 
-1309
+1315
 01:28:47,854 --> 01:28:52,977
 O 'céu' é uma 'pessoa'.
 'Riso' é 'andar'.
 
-1310
+1316
 01:28:53,353 --> 01:28:58,544
 'Amarelo' é 'abarrotado'.
 'Amigos' são 'verbos'. 'Dentes'...
 
-1311
+1317
 01:28:58,643 --> 01:29:00,245
 - Parecem haikus fajutos, Grant.
 - são 'entrada'.
 
-1312
+1318
 01:29:00,569 --> 01:29:03,135
 Posso estar errada, Grant, mas não acho
 que salvaremos o mundo com haikus fajutos!
 
-1313
+1319
 01:29:03,159 --> 01:29:04,868
 Tá legal, pelo amor de Deus...
 todo mundo é um crítico.
 
-1314
+1320
 01:29:04,992 --> 01:29:09,268
 Me ajuda, aí...
 'Agarrar'... 'Agarrar'!
 
-1315
+1321
 01:29:09,368 --> 01:29:10,434
 'Ingestão'...
 
-1316
+1322
 01:29:10,434 --> 01:29:11,958
 - 'Transgredir'...
 - 'Atirador'...
 
-1317
+1323
 01:29:12,158 --> 01:29:13,267
 - 'Nadar'...
 - 'Amanhã'...
 
-1318
+1324
 01:29:13,267 --> 01:29:14,707
 - 'Fidelidade'...
 - 'Monólogo'...
 
-1319
+1325
 01:29:14,907 --> 01:29:16,599
 - 'Selvagem'...
 - 'Linguiça'...
 
-1320
+1326
 01:29:16,798 --> 01:29:18,781
 - 'Amanhã'...
 - 'Dinheiro'...
 
-1321
+1327
 01:29:18,781 --> 01:29:23,056
 - 'Teto'...
 - é, eu não... Grant...
 
-1322
+1328
 01:29:23,056 --> 01:29:24,432
 'Rinoceronte'...
 
-1323
+1329
 01:29:24,848 --> 01:29:26,015
 'Risada'...
 
-1324
+1330
 01:29:27,698 --> 01:29:29,573
 Merda!
 
-1325
+1331
 01:29:30,089 --> 01:29:33,171
 Estão disparando contra as pessoas, Grant!
 Estão matando gente!
 
-1326
+1332
 01:29:37,013 --> 01:29:40,828
 Parem de matar as pessoas!
 Têm que parar de matar as pessoas!
 
-1327
+1333
 01:29:41,028 --> 01:29:46,945
 Têm que parar! Têm que parar!
 Parem! Parem!
 
-1328
+1334
 01:30:01,110 --> 01:30:03,193
 Me escutem...
 
-1329
+1335
 01:30:04,885 --> 01:30:08,300
 Eu disse, me escutem...
 
-1330
+1336
 01:30:09,459 --> 01:30:11,749
 Acho que estão todos mortos.
 
-1331
+1337
 01:30:17,699 --> 01:30:20,516
 Só estão matando gente assustada.
 
-1332
+1338
 01:30:20,516 --> 01:30:23,415
 É o que sempre fazem.
 
-1333
+1339
 01:30:23,415 --> 01:30:26,372
 Estão matando gente assustada.
 
-1334
+1340
 01:30:27,331 --> 01:30:32,564
 São como cães...
 Cheiram o medo e atacam.
 
-1335
+1341
 01:30:32,663 --> 01:30:35,313
 Bem, e o que raios aconteceu
 hoje, pessoal?
 
-1336
+1342
 01:30:35,313 --> 01:30:37,546
 Alguém lançou uma serra
 ao seu meio...
 
-1337
+1343
 01:30:37,645 --> 01:30:40,129
 e sacaram um demônio
 rodopiante...
 
-1338
+1344
 01:30:40,229 --> 01:30:44,312
 e o derramaram bem
 através de seu formigueiro.
 
-1339
+1345
 01:30:44,912 --> 01:30:46,579
 Mas querem saber, amigos?
 
-1340
+1346
 01:30:47,370 --> 01:30:49,619
 Nunca fizemos sentido.
 
-1341
+1347
 01:30:49,868 --> 01:30:53,577
 Nunca fizemos sentido.
 
-1342
+1348
 01:30:53,976 --> 01:31:01,542
 E hoje - hoje quando o Armagedom
 roubou-lhes suas boas e boas manhãs...
 
-1343
+1349
 01:31:01,642 --> 01:31:05,392
 Quer saber?
 É apenas mais um dia.
 
-1344
+1350
 01:31:05,783 --> 01:31:08,141
 Mais um dia em Pontypool.
 
-1345
+1351
 01:31:08,241 --> 01:31:11,807
 O sol raiou.
 Você fez o que havia feito ontem...
 
-1346
+1352
 01:31:12,007 --> 01:31:15,116
 e é exatamente o que fará amanhã.
 
-1347
+1353
 01:31:15,116 --> 01:31:17,475
 A notícia de hoje, pessoal...
 
-1348
+1354
 01:31:17,475 --> 01:31:23,638
 A mais recente notícia, desenrolando-se
 logo atrás de minha escrivaninha, é essa:
 
-1349
+1355
 01:31:24,513 --> 01:31:27,264
 Não é o fim do mundo, pessoal...
 
-1350
+1356
 01:31:27,638 --> 01:31:31,596
 É apenas o fim do dia.
 
-1351
+1357
 01:31:32,763 --> 01:31:38,221
 Sou Grant Mazzy,
 Rádio C.L.S.Y. de lugar nenhum.
 
-1352
+1358
 01:31:39,262 --> 01:31:42,553
 E ainda estou aqui,
 seus putos!
 
-1353
+1359
 01:31:51,734 --> 01:31:58,818
 <i>10... 9... 8... 7... 6...</i>
 
-1354
+1360
 01:31:59,059 --> 01:32:06,799
 <i>5... 4... 3... 2... 1...</i>
 
-1355
+1361
 01:32:22,977 --> 01:32:27,927
 <i>A polícia alerta para restrição no tráfego
 intermunicipal no interior de Ontário...</i>
 
-1356
+1362
 01:32:27,943 --> 01:32:34,560
 <i>O primeiro ministro agendou um anúncio
 às 21h, em que declarará lei marcial...</i>
 
-1357
+1363
 01:32:34,576 --> 01:32:38,244
 <i>... de manhã na C.L.S.Y, o DJ Grant
 Mazzy, foi ouvido falando</i>
 
-1358
+1364
 01:32:38,250 --> 01:32:41,610
 <i>incoerentemente pouco
 antes que o sinal da estação...</i>
 
-1359
+1365
 01:32:41,620 --> 01:32:44,035
 <i>... próximo à rodovia,
 normalmente movimentada,</i>
 
-1360
+1366
 01:32:44,037 --> 01:32:47,243
 <i>depois do bloqueio que impede
 que nos aproximemos...</i>
 
-1361
+1367
 01:32:47,280 --> 01:32:50,553
 <i>fica o município normalmente
 pacato de Pontypool,</i>
 
-1362
+1368
 01:32:50,578 --> 01:32:53,588
 <i>palco do presente massacre
 no Dia dos Namorados.</i>
 
-1363
+1369
 01:32:53,618 --> 01:32:55,867
 <i>... é isso que eu era.
 Uma doida...</i>
 
-1364
+1370
 01:32:55,892 --> 01:32:58,428
 <i>O padrão todo em minha
 cabeça era sem sentido.</i>
 
-1365
+1371
 01:32:58,443 --> 01:33:01,013
 <i>Estou melhor, agora.
 Estou tomando café.</i>
 
-1366
+1372
 01:33:01,020 --> 01:33:04,132
 <i>Vou caminhar com o cachorro
 para relaxar, mas...</i>
 
-1367
+1373
 01:33:04,277 --> 01:33:07,713
 <i>Quase enxerga-se a curvatura
 da Terra - um horizonte.</i>
 
-1368
+1374
 01:33:07,738 --> 01:33:12,040
 <i>Bem, o que acha que aconteceria se
 começasse a identificar, vamos supor...</i>
 
-1369
+1375
 01:33:12,050 --> 01:33:14,140
 <i>a décima segunda visão
 por aí afora... ?</i>
 
-1370
+1376
 01:33:14,180 --> 01:33:16,644
 <i>Você está na Rádio Impero
 South Hits...</i>
 
-1371
+1377
 01:33:16,669 --> 01:33:19,472
 <i>e temos novas notícias da
 cidade esta manhã...</i>
 
-1372
+1378
 01:33:19,480 --> 01:33:22,714
 <i>Esta manhã, às 10h, a PPO
 constatou um número alarmante...</i>
 
-1373
+1379
 01:33:22,720 --> 01:33:25,225
 <i>de crimes da comunidade...
 vandalismos, furtos...</i>
 
-1374
+1380
 01:33:25,227 --> 01:33:27,927
 <i>e diversos ataques espalhados
 por toda Peterborough.</i>
 
-1375
+1381
 01:33:28,050 --> 01:33:30,898
 <i>Acreditamos que esteja relacionado
 aos incidentes em Pontypool,</i>
 
-1376
+1382
 01:33:30,902 --> 01:33:34,944
 <i>Mas garantimos ao público que o que
 ocorreu lá não está ocorrendo aqui.</i>
 
-1377
+1383
 01:33:34,969 --> 01:33:38,438
 <i>Repito: os eventos de 14 de
 fevereiro em Pontypool...</i>
 
-1378
+1384
 01:33:38,463 --> 01:33:40,910
 <i>não estão se repetindo aqui...</i>
 
-1379
+1385
 01:33:40,990 --> 01:33:45,645
 <i>... porque meu vizinho continuava a
 repetir o que dizia de novo e de novo...</i>
 
-1380
+1386
 01:33:45,662 --> 01:33:49,032
 <i>e eu estava tipo... não estou
 entendo o que está acontecendo...</i>
 
-1381
+1387
 01:33:49,057 --> 01:33:51,635
 <i>Pode me contar algo mais
 que esteja acontecendo?</i>
 
-1382
+1388
 01:33:51,847 --> 01:33:56,176
 <i>... famílias rodovia acima, lojas e
 igrejas que encontram-se, presumo,</i>
 
-1383
+1389
 01:33:56,201 --> 01:33:59,053
 <i>no mesmo firme tecido que detém
 essas pequenas comunidades...</i>
 
-1384
+1390
 01:33:59,078 --> 01:34:01,329
 <i>esporádicas nessa região do país.</i>
 
-1385
+1391
 01:34:01,748 --> 01:34:04,028
 <i>Agora tudo a que estamos habituados...</i>
 
-1386
+1392
 01:34:04,053 --> 01:34:06,534
 <i>Por aqui, desta distância segura...</i>
 
-1387
+1393
 01:34:06,540 --> 01:34:09,313
 <i>definitivamente já não existem...</i>
 
-1388
+1394
 01:34:09,323 --> 01:34:12,410
 <i>logo acima desse pedaço
 lamacento da rodovia de Ontário.</i>
 
-1389
+1395
 01:34:12,426 --> 01:34:14,780
 <i>Só podemos torcer
 para que a doença...</i>
 
-1390
+1396
 01:34:14,805 --> 01:34:17,124
 <i>se é que era mesmo doença,</i>
 
-1391
+1397
 01:34:17,149 --> 01:34:19,543
 <i>os tenha matado...
 antes que tivéssemos que fazê-lo.</i>
 
-1392
+1398
 01:34:19,558 --> 01:34:22,218
 <i>Não, mas minha esposa
 fala até me enlouquecer.</i>
 
-1393
+1399
 01:34:22,243 --> 01:34:24,278
 <i>Meu filho adolescente também,
 só que ao contrário:</i>
 
-1394
+1400
 01:34:24,304 --> 01:34:28,199
 <i>não diz sequer uma frase
 inteira a mim desde junho...</i>
 
-1395
+1401
 01:34:28,319 --> 01:34:31,093
 <i>De qualquer modo, sim... estamos
 enlouquecendo uns aos outros...</i>
 
-1396
+1402
 01:34:35,052 --> 01:34:39,425
 <i>... Estava vendo TV e
 mencionaram rapidinho sobre...</i>
 
-1397
+1403
 01:34:39,550 --> 01:34:41,998
 <i>um papo de epidemia,
 ou algo assim...</i>
 
-1398
+1404
 01:34:41,999 --> 01:34:44,090
 <i>quero dizer... não sei...</i>
 
-1399
+1405
 01:34:44,115 --> 01:34:47,378
 <i>não vejo caminhões de vacinação
 ou essas coisas de cinema...</i>
 
-1400
+1406
 01:34:47,403 --> 01:34:52,279
 <i>Sabe, vi esse filme de epidemia
 que aluguei, há uns anos atrás...</i>
 
-1401
+1407
 01:34:52,304 --> 01:34:55,916
 <i>e não é bem assim.
 Não sei o que pensar, agora...</i>
 
-1402
+1408
 01:34:57,459 --> 01:35:00,493
 <i>... Eu não estava achando graça.
 Conhecia Grant Mazzy.</i>
 
-1403
+1409
 01:35:00,506 --> 01:35:04,836
 <i>Respeitava o cara - e acho que ele
 gostaria que investigássemos.</i>
 
-1404
+1410
 01:35:04,850 --> 01:35:08,052
 <i>Ele iria querer que descobríssemos o
 que realmente estava acontecendo.</i>
 
-1405
+1411
 01:35:08,053 --> 01:35:08,966
 <i>... a realidade.</i>
 
-1406
+1412
 01:35:08,967 --> 01:35:12,131
 <i>... e essas são as últimas
 notícias de Kandahar.</i>
 
-1407
+1413
 01:35:12,156 --> 01:35:17,536
 <i>Ainda hoje: a tropa de choque
 franco-canadense conteve com sucesso...</i>
 
-1408
+1414
 01:35:17,563 --> 01:35:23,119
 <i>a manifestação violenta de uma
 pequena cidade de Ontário, Pontypool...</i>
 
-1409
+1415
 01:35:23,163 --> 01:35:28,934
 <i>Pontypool ... Ponty... pool...
 Ponty... pool ...</i>
 
-1410
+1416
 01:35:29,016 --> 01:35:30,473
 <i>Vamos dar o fora.</i>
 
-1411
+1417
 01:35:31,054 --> 01:35:32,062
 Onde vamos?
 
-1412
+1418
 01:35:32,303 --> 01:35:35,085
 Não posso mais respeitar
 as regras do sistema.
 
-1413
+1419
 01:35:35,090 --> 01:35:36,855
 Minha paciência está
 por um fio.
 
-1414
+1420
 01:35:36,909 --> 01:35:39,273
 Vamos além dos limites,
 roubar carros...
 
-1415
+1421
 01:35:39,286 --> 01:35:42,779
 Deixando o mundo para trás para
 descobrir o que pensam ser preto e branco.
 
-1416
+1422
 01:35:42,811 --> 01:35:43,811
 E o que fazer com...?
 
-1417
+1423
 01:35:43,812 --> 01:35:45,943
 'O que fazer'...?
 Mas e o que fazer com 'o que fazer'?
 
-1418
+1424
 01:35:46,808 --> 01:35:49,313
 Não é um bom jeito anti-conceitual
 de iniciar uma pergunta.
 
-1419
+1425
 01:35:49,325 --> 01:35:52,429
 - Meu nome...?
 - O meu também...?
 
-1420
+1426
 01:35:52,740 --> 01:35:54,508
 - Johnny "Olhos Mortos".
 
-1421
+1427
 01:35:56,208 --> 01:35:57,376
 - Lisa, "a Assassina".
 
-1422
+1428
 01:35:57,967 --> 01:35:59,195
 Onde vamos, Johnny?
 
-1423
+1429
 01:35:59,206 --> 01:36:02,049
 A um lugar novo -
 que nem existe, ainda.
 
-1424
+1430
 01:36:02,411 --> 01:36:03,489
 E aí?
 
-1425
+1431
 01:36:03,710 --> 01:36:06,465
 Roubamos o tesouro e afogamos
 ganso no mundo livre, baby.
 
-1426
+1432
 01:36:06,478 --> 01:36:08,884
 OK. OK, baby!
 
-1427
+1433
 01:36:20,000 --> 01:36:25,266
 <!--
     Subbed and translated by gyohza
