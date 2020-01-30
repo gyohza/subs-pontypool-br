@@ -1,9 +1,7 @@
 1
-00:00:00,000 --> 00:00:30,000
-<!--
-    Subbed and translated by gyohza
-    https://github.com/gyohza/subs-pontypool-br
--->
+00:00:00,000 --> 00:00:00,000
+<!-- Subbed and translated by gyohza
+https://github.com/gyohza/subs-pontypool-br -->
 
 2
 00:00:32,343 --> 00:00:35,384
@@ -6564,9 +6562,7 @@ ganso no mundo livre, baby.
 OK. OK, baby!
 
 1433
-01:36:20,000 --> 01:36:25,266
-<!--
-    Subbed and translated by gyohza
-    https://github.com/gyohza/subs-pontypool-br
--->
+01:36:25,266 --> 01:36:25,266
+<!-- Subbed and translated by gyohza
+https://github.com/gyohza/subs-pontypool-br -->
 
