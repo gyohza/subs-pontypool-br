@@ -1,4 +1,4 @@
-# [Pontypool (2008)](https://www.rottentomatoes.com/m/pontypool) - Subtitles `PT-BR`
+# [Pontypool (2008)](https://www.rottentomatoes.com/m/pontypool) - Subtitles `pt-BR`
 
 Portuguese (Brazilian) captions to one of the greatest horror pieces ever filmed.
 
@@ -8,7 +8,7 @@ Subtitles made with the aid of [**Subtitle Edit**](https://www.nikse.dk/subtitle
 
 Maybe I should write these notes in Portuguese - but for now, it'll be in English (I figure any critics of my work would have to know English to begin with). This is more of an attempt to justify whenever I had to stick my nose into the script - sometimes it was necessary.
 
-I am truly passionate about this piece and I consider great responsibility to translate it properly - something that honestly I didn't feel was accomplished by trying PT-BR subs available around. Frankly, I don't need them, but being Brazilian and all and wanting to share this movie with everybody else that don't really speak English... You know. Troublesome. So I decided to give it my own shot.
+I am truly passionate about this piece and I consider great responsibility to translate it properly - something that honestly I didn't feel was accomplished by trying `pt-BR` subs available around. Frankly, I don't need them, but being Brazilian and all and wanting to share this movie with everybody else that don't really speak English... You know. Troublesome. So I decided to give it my own shot.
 
 In all honesty, I'm no professional translator - neither have I great experience with writing and syncing subtitles - but I *am* a professional coder, so I decided to host these subtitles on GitHub, so one can track all my corrections and, most importantly, I can leave these notes to whomever comes across these subs. Sadly I thought about hosting them on GitHub only after I had almost lost all my work (3 full days of hard work and still adjusting)... I really wish I had logged all my progress to share how the sausage is made.
 
@@ -98,9 +98,9 @@ This one wasn't actually difficult, just something that others might have done d
 
 > `01:11:15.100` I've looped it.
 
-Theoretically you *could* translate it as "coloquei para repetir" ("I set it to repeat itself") or "coloquei em repetição" ("I set it into repetition"), because "repetição" is the closest we have to "loop" in Portuguese - in fact, that's the politically correct way people call a "loop" in programming while in college.
+Theoretically you *could* translate it as "coloquei para repetir" ("I set it to repeat itself") or "coloquei em repetição" ("I set it into repetition"), because "repetição" is the closest we have to "loop" in Portuguese - in fact, that's the way people call a "loop" in programming strictly while in college.
 
-However the truth is that we don't *ever* call it "repetição", except when specifically trying to be politically correct. Even on everyday language, younger PT-BR speakers would use the word "loop" as is (although some will annoyingly and stubbornly use "looping" instead of "loop"). In technical jargon, especially in the computing, musical and presumbly radio businesses, virtually everybody knows what a "loop" is. So no, I won't be calling it "repetição".
+However the truth is that we don't *ever* call it "repetição", except in strict academic discourse. Even on everyday language, younger `pt-BR` speakers would use the word "loop" as is (although some will annoyingly and stubbornly use "looping" instead of "loop"). In technical jargon, especially in the computing, musical and presumbly radio businesses, virtually everybody knows what a "loop" is. So no, I won't be calling it "repetição".
 
 ### *A big, cold...*
 
